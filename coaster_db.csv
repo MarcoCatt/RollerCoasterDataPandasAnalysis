@@ -1,0 +1,991 @@
+Coaster_Name,Location,Status,Manufacturer,Year_Introduced,Opening_Date,Speed_mph
+Switchback Railway,Coney Island,Removed,LaMarcus Adna Thompson,1884,1884-06-16,6.0
+Flip Flap Railway,Sea Lion Park,Removed,Lina Beecher,1895,1895-01-01,
+Switchback Railway (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1896,,
+Loop the Loop (Coney Island),Other,Removed,Edwin Prescott,1901,1901-01-01,
+Loop the Loop (Young's Pier),Other,Removed,Edwin Prescott,1901,1901-01-01,
+Cannon Coaster,Coney Island,Removed,George Francis Meyer,1902,1902-01-01,
+Leap-The-Dips,Lakemont Park,Operating,Federal Construction Company,1902,1902-01-01,10.0
+Figure Eight (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1904,,
+Drop the Dip,Coney Island,Removed,Arthur Jarvis,1907,1907-06-06,
+Scenic Railway (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1907,,
+Loop the Loop (Olentangy Park),Olentangy Park,Removed,Lina Beecher,1908,1908-01-01,
+Aero Dips,"Cleveland, Ohio, United States",Closed,,1909,,
+Backety-Back Scenic Railway,Crystal Beach,Removed,,1909,1909-01-01,10.0
+Racer (1910 roller coaster),Kennywood,Operating,Charlie Mach,1910,1927-01-01,40.0
+Derby Racer,Revere Beach,Removed,Fred W. Pearce,1911,1911-01-01,
+The Great Scenic Railway,Luna Park Melbourne,Operating,LaMarcus Thompson,1912,1912-12-01,37.3
+Zippin Pippin,Other,,The Gravity Group,1912,,40.0
+Racing Coaster,"Cleveland, Ohio, United States",Closed,,1913,,
+Whirl Pool Dips,Tolchester Beach Park,Removed,,1913,1913-01-01,
+Green Dragon (Lake Compounce),Lake Compounce,Removed,,1914,1914-01-01,
+The Wild One (roller coaster),Six Flags America,,Dinn Corporation,1917,,53.0
+Jack Rabbit (Clementon Park),Clementon Park,Removed,Philadelphia Toboggan Coasters,1919,1919-01-01,
+Jack Rabbit (Kennywood),Kennywood,Operating,Harry C. Baker,1920,1920-01-01,45.0
+Jack Rabbit (Seabreeze),Seabreeze Amusement Park,Operating,Harry C. Baker,1920,1920-01-01,42.0
+Scenic Railway (roller coaster),Dreamland Margate,Operating,,1920,1920-07-03,35.0
+Roller Coaster (Lagoon),Lagoon Amusement Park,Operating,,1921,1921-07-15,45.0
+Big Dipper (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,William Strickler,1923,1923-08-23,40.0
+Wild Cat (Hersheypark),Hersheypark,Removed,Philadelphia Toboggan Coasters,1923,1923-06-16,
+The Bobs (roller coaster),Riverview Park,Removed,Prior and Church,1924,1924-01-01,50.0
+Giant Dipper,Santa Cruz Beach Boardwalk,Operating,Arthur Looff,1924,1924-05-17,55.0
+Pippin (roller coaster),Kennywood,Operating,,1924,1968-01-01,55.0
+The Thriller (roller coaster),"Cleveland, Ohio, United States",Closed,,1924,,
+Thunderhawk (Dorney Park),Dorney Park & Wildwater Kingdom,Operating,Philadelphia Toboggan Coasters,1924,1924-03-30,45.0
+Big Dipper (Geauga Lake),Geauga Lake,Removed,,1925,1925-01-01,32.0
+Cyclone (Revere Beach),Revere Beach,Removed,Traver Engineering,1925,1925-01-01,45.0
+Giant Dipper (Belmont Park),Other,Operating,"Frank Prior, Fredrick Church",1925,1925-07-04,48.0
+Jazz Railway,Rocky Glen Park,Removed,Traver Engineering,1925,1925-01-01,
+Thunderbolt (1925 roller coaster),Coney Island,Removed,,1925,1925-01-01,
+Thunderbolt (Savin Rock),Savin Rock,Removed,Traver Engineering,1925,1925-05-05,
+Crystal Beach Cyclone,Crystal Beach Park,Removed,Traver Engineering,1926,1926-01-01,60.0
+Sesquicentennial Cyclone,Sesquicentennial Exposition,Removed,Traver Engineering,1926,1926-05-31,
+Tornado (Coney Island),Coney Island,Removed,,1926,1926-01-01,
+Coney Island Cyclone,"Luna Park, Coney Island",Operating,,1927,1927-06-26,60.0
+Cyclone (Palisades Amusement Park),Palisades Amusement Park,Removed,Traver Engineering,1927,1927-09-10,
+Lightning (Revere Beach),Revere Beach,Removed,Traver Engineering,1927,1927-07-02,
+Racer (Kennywood),Kennywood,Operating,Charlie Mach,1927,1927-01-01,40.0
+Wildcat (Lake Compounce),Lake Compounce,Operating,Philadelphia Toboggan Coasters,1927,1927-01-01,48.0
+Zip (roller coaster),Oaks Amusement Park,Removed,Traver Engineering,1927,1927-01-01,
+Airplane Coaster,Playland,Removed,Frank W. Darling,1928,1928-05-26,40.0
+Montaña Suiza,Monte Igueldo Amusement Park,Operating,,1928,1928-01-01,31.0
+Dragon Coaster (Playland),Playland,Operating,,1929,1929-01-01,
+Flying Turns (Euclid Beach Park),"Cleveland, Ohio, United States",Closed,,1930,,
+Yankee Cannonball,Canobie Lake Park,Operating,Philadelphia Toboggan Coasters,1930,1930-01-01,35.0
+Roller Coaster (Great Yarmouth Pleasure Beach),Great Yarmouth Pleasure Beach,Operating,,1932,1932-05-01,45.0
+Nickelodeon Streak,Blackpool Pleasure Beach,Operating,,1933,1933-01-01,35.0
+Zipper Dipper,Blackpool Pleasure Beach,Operating,,1934,1934-01-01,
+Big Dipper (Luna Park Sydney),Other,,,1935,,58.0
+Grand National (roller coaster),Blackpool Pleasure Beach,Closed,,1935,1935-01-01,40.0
+Blue Streak (Conneaut Lake),Conneaut Lake Park,Closed,,1937,1938-05-23,50.0
+Rollo Coaster,Idlewild and Soak Zone,Operating,Philadelphia Toboggan Coasters,1938,1938-01-01,25.0
+Cyclone (Lakeside Amusement Park),Lakeside Amusement Park,Operating,,1940,1940-05-17,55.0
+Flyer Comet (Whalom Park),Whalom Park,Removed,National Amusement Devices,1940,1940-01-01,40.0
+Giant Skyrocket,Other,,Lake Contrary Amusement Park,1941,,
+Thunderbolt (Six Flags New England),Six Flags New England,Operating,Joseph E. Drambour,1941,1941-01-01,40.0
+Comet (Hersheypark),Hersheypark,Operating,Philadelphia Toboggan Coasters,1946,1946-01-01,50.0
+Comet (Lincoln Park),Lincoln Park,Removed,National Amusement Devices,1946,1946-10-01,55.0
+Little Dipper (Conneaut Lake Park),Conneaut Lake Park,Operating,Allan Herschell Company,1950,1950-01-01,
+Little Dipper (Six Flags Great America),Other,,Philadelphia Toboggan Coasters,1950,,25.0
+Big Dipper (Battersea Park),Battersea Park,Removed,,1951,1951-01-01,
+Comet (Waldameer),Waldameer Park,Operating,Philadelphia Toboggan Coasters,1951,1951-01-01,25.0
+Vuoristorata,Linnanmäki,Operating,"Linnanmäki, led by Svend Jarlström",1951,1951-07-13,37.3
+Little Dipper (Memphis Kiddie Park),Memphis Kiddie Park,Operating,Allan Herschell Company,1952,1952-04-01,
+High Speed Thrill Coaster,Knoebels Amusement Resort,Removed,,1955,1955-01-01,
+Sea Dragon (roller coaster),Rides At Adventure Cove,Operating,Philadelphia Toboggan Coasters,1956,1956-01-01,25.0
+Big Dipper (Camden Park),Camden Park,Operating,National Amusement Devices,1958,1958-01-01,
+Wild Mouse (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Removed,Blackpool Pleasure Beach,1958,1958-01-01,35.0
+Wooden Roller Coaster (Playland),Playland,Not Currently Operating,,1958,1958-01-01,49.7
+Matterhorn Bobsleds,Other,Operating,Arrow Development,1959,1959-06-14,27.0
+Tornado (Wedgewood Village Amusement Park),"63rd and N.W. Expressway, Oklahoma City, Oklahoma, U.S.",Closed,,1961,,
+Blue Streak (Cedar Point),Cedar Point,Operating,Philadelphia Toboggan Coasters,1964,1964-05-23,40.0
+Jetstream (roller coaster),Riverview Park,Removed,Philadelphia Toboggan Coasters,1964,1964-01-01,
+Montaña Rusa (La Feria Chapultepec Mágico),La Feria Chapultepec Mágico,Removed,National Amusement Devices,1964,1964-10-22,
+Giant Coaster (Fuji-Q Highland),Fuji-Q Highland,Removed,Sansei Technologies,1966,1966-01-01,49.7
+Runaway Mine Train (Six Flags Over Texas),Six Flags Over Texas,Operating,Arrow Development,1966,1966-07-23,35.0
+Swamp Fox (roller coaster),Family Kingdom Amusement Park,Operating,Philadelphia Toboggan Coasters,1966,1966-01-01,50.0
+Cannon Ball (roller coaster),Lake Winnepesaukah,Operating,Philadelphia Toboggan Coasters,1967,1967-01-01,50.0
+Dahlonega Mine Train,Six Flags Over Georgia,Operating,Arrow Dynamics,1967,1967-06-16,29.0
+Alpine Sleigh Ride,Other,Removed,,1968,1968-06-01,
+Thunderbolt (Kennywood),Kennywood,Operating,,1968,1968-01-01,55.0
+Cedar Creek Mine Ride,Cedar Point,Operating,Arrow Development,1969,1969-05-24,42.0
+Mini Mine Train (Six Flags Over Texas),"Arlington, Texas, U.S.",Operating,,1969,,
+Serpent (roller coaster),Six Flags AstroWorld,Removed,Arrow Dynamics,1969,1969-01-01,14.0
+Daidarasaurus,Expoland,Removed,Sansei Technologies,1970,1970-01-01,44.7
+Galaxi,Other,In Production,,1970,,
+Jet Star (Casino Pier),Casino Pier,Removed,Anton Schwarzkopf,1970,1970-01-01,31.1
+Wildcat (Jolly Roger Amusement Park),Other,,Anton Schwarzkopf,1970,,
+Gold Rusher,Six Flags Magic Mountain,Operating,Arrow Development,1971,1971-05-29,35.0
+Magic Flyer (roller coaster),Other,,Bradley and Kaye,1971,,10.0
+River King Mine Train,Six Flags St. Louis,Operating,Arrow Dynamics,1971,1971-06-05,37.0
+Excalibur (Six Flags AstroWorld),Six Flags AstroWorld,Removed,Arrow Dynamics,1972,1972-01-01,46.0
+Fire in the Hole (Silver Dollar City),Silver Dollar City,Operating,Herschend Family Entertainment,1972,1972-01-01,27.0
+Jumbo Jet (Cedar Point),Other,,Anton Schwarzkopf,1972,,
+The Racer (Kings Island),Other,Operating,Philadelphia Toboggan Coasters,1972,1972-04-29,53.0
+Rock n' Roller Coaster (Opryland),Other,,Arrow Development,1972,,45.0
+Scooby-Doo (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,1972,1972-01-01,35.0
+Toboggan (Hersheypark),Hersheypark,Removed,Chance Rides,1972,1972-01-01,
+Carolina Goldrusher,Carowinds,Operating,Arrow Dynamics,1973,1973-03-31,30.0
+Great American Scream Machine (Six Flags Over Georgia),Six Flags Over Georgia,Operating,Philadelphia Toboggan Coasters,1973,1973-03-31,57.0
+Schussboomer,Worlds of Fun,Removed,Anton Schwarzkopf,1973,1973-05-26,
+Big Fury,Six Flags Great Adventure,Removed,Pinfari,1974,1974-01-01,
+Mini-Comet,Hersheypark,Removed,B.A. Schiff & Associates,1974,1974-05-10,
+Runaway Mine Train (Six Flags Great Adventure),"Jackson, New Jersey, United States",Operating,,1974,,
+Scooby-Doo (Kings Dominion),Kings Dominion,Operating,Philadelphia Toboggan Coasters,1974,1974-01-01,35.0
+Trailblazer (roller coaster),Hersheypark,Operating,Arrow Development,1974,1974-05-14,35.0
+Corkscrew (Knott's Berry Farm),Other,,Arrow Development,1975,,46.0
+Glissade (roller coaster),Busch Gardens Williamsburg,Removed,Anton Schwarzkopf,1975,1975-01-01,
+Racer 75,Other,Operating,Philadelphia Toboggan Coasters,1975,1975-05-03,56.0
+Rockin' Roller,Six Flags St. Louis,Removed,Bradley and Kaye,1975,1975-01-01,
+Scooby-Doo (Carowinds),Carowinds,Operating,Philadelphia Toboggan Coasters,1975,1975-01-01,36.0
+Space Mountain (Magic Kingdom),Other,Operating,Arrow Development,1975,1975-01-15,27.0
+Wabash Cannonball (roller coaster),Opryland USA,Removed,Arrow Development,1975,1975-01-01,50.0
+Alpen Blitz,Six Flags Great Adventure,Removed,Anton Schwarzkopf,1976,1976-01-01,10.0
+Corkscrew (Cedar Point),Cedar Point,Operating,Arrow Development,1976,1976-05-15,48.0
+Demon (roller coaster),Other,,Arrow Dynamics,1976,,50.0
+Extremeroller,Worlds of Fun,Removed,Arrow Dynamics,1976,1976-01-01,50.0
+Gulf Coaster,Other,,Allan Herschell Company,1976,,
+High Roller (Valleyfair),Valleyfair,Operating,Rauenhorst Corporation,1976,1976-01-01,50.0
+Jet Star 2 (Lagoon),Lagoon Amusement Park,Operating,Anton Schwarzkopf,1976,1976-01-01,
+Jumbo Jet (Morey's Piers),Morey's Piers,Removed,Anton Schwarzkopf,1976,1976-01-01,50.0
+Lil' Thunder,Six Flags Great Adventure,Removed,Molina & Sons,1976,1976-01-01,5.0
+Mild Thing,Valleyfair,Removed,Allan Herschell Company,1976,1976-01-01,
+Python (Busch Gardens Tampa Bay),Busch Gardens Tampa Bay,Removed,Arrow Development,1976,1976-07-01,40.0
+The New Revolution (roller coaster),Six Flags Magic Mountain,Operating,Anton Schwarzkopf,1976,1976-05-08,55.0
+Screamin' Eagle,Six Flags St. Louis,Operating,Philadelphia Toboggan Coasters,1976,1976-04-10,62.0
+Texas Cyclone,Six Flags AstroWorld,Removed,Frontier Construction Company,1976,1976-06-12,
+Thunder Road (roller coaster),Other,Removed,Philadelphia Toboggan Coasters,1976,1976-04-03,58.0
+Whizzer (roller coaster),Other,,Anton Schwarzkopf,1976,,42.0
+Double Loop (Geauga Lake),Geauga Lake,Removed,Arrow Dynamics,1977,1977-01-01,36.0
+Screamin' Demon,Other,,Arrow Dynamics,1977,,45.0
+Shuttle Loop,Other,Discontinued,Anton Schwarzkopf,1977,,
+SooperDooperLooper,Hersheypark,Operating,Anton Schwarzkopf,1977,1977-07-04,45.0
+Space Mountain (Disneyland),Disneyland,Operating,Arrow Development (1977–2003)Dynamic Structures (2005–present)]],1977,1977-05-27,35.0
+Steeplechase (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,Arrow Dynamics,1977,1977-01-01,
+Arkansas Twister,Magic Springs and Crystal Falls,Operating,Michael Black and Associates,1978,1978-01-01,50.0
+Colossus (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Rocky Mountain Construction,1978,2015-05-23,57.0
+Gemini (roller coaster),Other,Operating,Arrow Dynamics,1978,1978-06-17,60.0
+Greezed Lightnin' (Six Flags Astroworld),Other,Discontinued,Anton Schwarzkopf,1978,,
+Lightnin' Loops,Other,,Arrow Development,1978,,45.0
+Loch Ness Monster (roller coaster),Busch Gardens Williamsburg,Operating,Arrow Development,1978,1978-06-06,60.0
+Montezooma's Revenge,Knott's Berry Farm,Operating,Anton Schwarzkopf,1978,1978-05-21,55.0
+Schweizer Bobbahn,Heide Park,Operating,Mack Rides,1978,1978-08-19,32.9
+Shock Wave (Six Flags Over Texas),Six Flags Over Texas,Operating,Anton Schwarzkopf,1978,1978-04-22,60.0
+The Riddler Mindbender,Six Flags Over Georgia,Operating,Anton Schwarzkopf,1978,1978-03-31,50.0
+Tornado (Adventureland),Adventureland (Iowa),Operating,Frontier Construction Company,1978,1978-07-04,58.0
+Wild Rider,Six Flags Great Adventure,Removed,Anton Schwarzkopf,1978,1978-01-01,
+The Beast (roller coaster),Kings Island,Operating,Kings Island,1979,1979-04-14,64.8
+Big Thunder Mountain Railroad,Other,,"Arrow Development (California and Florida)Dynamic Structures (2014 California rebuild)Vekoma (Paris, Tokyo)",1979,,35.0
+Big Thunder Mountain Railroad (Disneyland),Other,,"Arrow Development (California and Florida)Dynamic Structures (2014 California rebuild)Vekoma (Paris, Tokyo)",1979,,35.0
+Corkscrew (Michigan's Adventure),"Muskegon, Michigan, United States",Operating,,1979,,
+Momonga Standing and Loop Coaster,Yomiuriland,Removed,TOGO,1979,1979-01-01,46.6
+Revolution (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,Arrow Development,1979,1979-01-01,45.0
+Rolling Thunder (roller coaster),Other,Removed,William Cobb & Associates,1979,1979-01-01,56.0
+WildCat (Cedar Point),Cedar Point,Removed,Anton Schwarzkopf,1979,1979-01-01,40.0
+Wilderness Run,Cedar Point,Operating,Intamin,1979,1979-01-01,6.0
+Carolina Cyclone,Carowinds,Operating,Arrow Dynamics,1980,1980-03-22,41.0
+Corkscrew (Alton Towers),Alton Towers,Removed,Vekoma,1980,1980-04-04,40.0
+Corkscrew (Valleyfair),Valleyfair,Operating,Arrow Dynamics,1980,1980-01-01,50.0
+Judge Roy Scream,Six Flags Over Texas,Operating,William Cobb & Associates,1980,1980-03-01,45.0
+Orient Express (roller coaster),Worlds of Fun,Removed,Arrow Dynamics,1980,1980-04-04,50.0
+Scorpion (roller coaster),Busch Gardens Tampa Bay,Operating,Anton Schwarzkopf,1980,1980-05-16,41.0
+Shuttle Loop (Nagashima Spa Land),Nagashima Spa Land,Operating,Anton Schwarzkopf,1980,1980-01-01,57.0
+The Beastie (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,1980,1972-01-01,35.0
+American Eagle (roller coaster),Other,Operating,Intamin,1981,1981-05-23,66.0
+The Bat (Kings Island; opened 1981),Kings Island,Removed,Arrow Development,1981,1981-04-26,34.0
+Colossus (Playcenter São Paulo),Other,,Anton Schwarzkopf,1981,,52.0
+Dragon Fyre,Canada's Wonderland,Operating,Arrow Dynamics,1981,1981-01-01,49.7
+Ghoster Coaster (Canada's Wonderland),Canada's Wonderland,Operating,Taft Broadcasting,1981,1981-05-23,34.8
+Hoot N Holler,Six Flags Darien Lake,Operating,Zierer,1981,1981-01-01,16.2
+Mighty Canadian Minebuster,Canada's Wonderland,Operating,Canada's Wonderland,1981,1981-01-01,55.9
+Python (Efteling),Efteling,Operating,Vekoma,1981,1981-04-12,46.6
+Super Manège,La Ronde,Removed,Vekoma,1981,1981-01-01,39.8
+Thunder Run (Canada's Wonderland),Canada's Wonderland,Operating,Mack Rides,1981,1981-05-23,39.8
+Wilde Beast,Canada's Wonderland,Operating,Taft Broadcasting Company,1981,1981-01-01,55.9
+Grizzly (Kings Dominion),Kings Dominion,Operating,Taft Broadcasting Company,1982,1982-03-27,51.0
+Looping Star (Nagashima Spa Land),Nagashima Spa Land,Operating,Anton Schwarzkopf,1982,1982-01-01,40.0
+Sea Viper (roller coaster),Sea World,Removed,Arrow Dynamics,1982,1982-09-17,43.5
+Thrillseeker (roller coaster),Sea World,Removed,S.D.C.,1982,1982-01-01,40.4
+Thunderbolt (Dreamworld),Dreamworld,Removed,Sanoyas Hishino Meisho,1982,1982-04-01,54.1
+Viper (Six Flags Darien Lake),Six Flags Darien Lake,Operating,Arrow Dynamics,1982,1982-05-29,50.0
+Vortex (Calaway Park),Calaway Park,Operating,Arrow Dynamics,1982,1982-01-01,
+Alpen Blitz (Parque de la Ciudad),"Argentina, Villa Soldati, Buenos Aires",,,1983,,
+Beastie (Alton Towers),Alton Towers,Removed,Pinfari,1983,1983-01-01,17.0
+Black Hole (roller coaster),Alton Towers,Removed,Anton Schwarzkopf,1983,1983-01-01,32.0
+Colossus the Fire Dragon,Lagoon Amusement Park,Operating,Anton Schwarzkopf,1983,1983-01-01,55.0
+Cyclone (Six Flags New England),Six Flags New England,Operating,Rocky Mountain Construction,1983,2015-05-24,55.0
+Dragon Mountain,Marineland of Canada,Operating,Arrow Huss,1983,1983-07-16,50.0
+Flitzer,Morey's Piers,Removed,Zierer,1983,1983-01-01,
+Moonsault Scramble,Fuji-Q Highland,Removed,Meisho Amusement Machines,1983,1983-06-24,55.9
+Sky Screamer (Six Flags AstroWorld),Six Flags AstroWorld,,Intamin,1983,1983-01-01,
+Space Mountain (Tokyo Disneyland),Other,Operating,,1983,1983-04-15,30.0
+Timberline Twister,"8039 Beach BoulevardBuena Park, California 90620, U.S.",,,1983,,
+Alpenexpress Enzian,Europa-Park,Operating,Mack Rides,1984,1984-01-01,28.0
+Alpine Bobsled,Other,,Intamin,1984,,35.0
+Astro Storm,Other,,Zierer,1984,,37.0
+Big Bad Wolf (roller coaster),Busch Gardens Williamsburg,Removed,Arrow Dynamics,1984,1984-06-15,48.0
+Boomerang (roller coaster),Other,In Production,Vekoma,1984,,47.0
+Flying Fish (roller coaster),Thorpe Park,Operating,Mack Rides,1984,1984-01-01,16.8
+King Cobra (roller coaster),Kings Island,Removed,TOGO,1984,1984-04-22,50.0
+Sea Serpent (Morey's Piers),Morey's Piers,Operating,Vekoma,1984,1984-01-01,47.0
+Steamin' Demon,Great Escape,Operating,Arrow Dynamics,1984,1984-05-26,45.0
+Tig'rr Coaster,Indiana Beach,Operating,Anton Schwarzkopf,1984,1984-01-01,31.1
+Ultra Twister (Nagashima Spa Land),Nagashima Spa Land,Operating,TOGO,1984,1989-01-01,
+La Vibora,Other,,Intamin,1984,,32.0
+XLR-8,Six Flags AstroWorld,Removed,Arrow Dynamics,1984,1984-05-12,34.1
+The Bush Beast,Wonderland Sydney,Removed,Taft Broadcasting,1985,1985-12-07,55.9
+Disaster Transport,Cedar Point,Removed,Intamin,1985,1985-01-01,40.0
+Flashback (Six Flags Magic Mountain),Other,,Intamin,1985,,35.0
+Freestyle (roller coaster),Other,,TOGO,1985,,51.0
+Kikkerachtbaan,Duinrell,Operating,Zierer,1985,1985-01-01,22.4
+Klondike Gold Mine (roller coaster),Other,,Pinfari,1985,,
+Shaman (roller coaster),Gardaland,Operating,Vekoma,1985,1985-01-01,43.5
+Mindbender (Galaxyland),Galaxyland,closed for maintenance as of july 30 no reopening date known,Anton Schwarzkopf,1985,1985-12-20,60.0
+Le Monstre,Other,Operating,Martin & Vleminckx,1985,1985-07-20,59.7
+Phoenix (roller coaster),Knoebels Amusement Resort,Operating,Philadelphia Toboggan Coasters,1985,1985-06-15,45.0
+Steel First,Other,,Allan Herschell Company,1985,1985-01-01,
+Swiss Bob,Efteling,Removed,Intamin,1985,1985-04-04,37.3
+Texas Tornado (roller coaster),Wonderland Park (Texas),Operating,Hopkins Rides,1985,1985-01-01,
+The Beastie (Wonderland Sydney),"Eastern Creek, New South Wales, New South Wales, Australia",,,1985,,
+Wild Mouse (Idlewild),Idlewild and Soak Zone,Operating,Vekoma,1985,1985-01-01,30.0
+Eureka Mountain Mine Ride,Dreamworld,Removed,HyFab,1986,1986-12-11,29.8
+The Grizzly,California's Great America,Operating,Kings Island,1986,1986-01-01,55.0
+Shockwave (Kings Dominion),Kings Dominion,Removed,TOGO,1986,1986-03-23,50.0
+Silver Bullet (Frontier City),Other,,Anton Schwarzkopf,1986,,47.8
+Ultra Twister (Six Flags),Other,,TOGO,1986,,44.0
+The Bat (Canada's Wonderland),Other,,,1987,,
+Big Thunder Mountain Railroad (Tokyo Disneyland),Other,,"Arrow Development (California and Florida)Dynamic Structures (2014 California rebuild)Vekoma (Paris, Tokyo)",1987,,35.0
+Canobie Corkscrew,Canobie Lake Park,Removed,Arrow Development,1987,1975-01-01,45.0
+Dreamcatcher (roller coaster),Bobbejaanland,Operating,Vekoma,1987,1987-01-01,
+Iron Dragon (roller coaster),Cedar Point,Operating,Arrow Dynamics,1987,1987-06-11,40.0
+Knightmare (Camelot),Other,Removed,Zierer,1987,,40.0
+Lisebergbanan,Liseberg,Operating,Zierer,1987,1987-04-18,49.7
+Raptor Attack,Lightwater Valley,Closed in 2021,Anton Schwarzkopf,1987,1987-04-02,40.0
+Runaway Train (roller coaster),Chessington World of Adventures,Operating,Mack Rides,1987,1987-06-07,22.4
+Scorpion Express,Chessington World of Adventures,Operating,Mack Rides,1987,1987-06-07,22.4
+Skyliner (roller coaster),Other,,Philadelphia Toboggan Coasters,1987,,40.0
+Vortex (Kings Island),Kings Island,Removed,Arrow Dynamics,1987,1987-04-11,55.0
+Woodstock's Express (California's Great America),Other,,Intamin,1987,,
+Avalanche (Blackpool Pleasure Beach),Blackpool Pleasure Beach,Operating,Mack Rides,1988,1988-06-22,45.0
+Avalanche (Kings Dominion),Kings Dominion,Closed,Mack Rides,1988,1988-03-26,41.0
+Bandit (Yomiuriland),Yomiuriland,Operating,TOGO,1988,1988-03-01,68.3
+Beast (Alton Towers),"Alton, Staffordshire, England",,,1988,,
+Boomerang (Six Flags México),Other,,Vekoma,1988,,47.0
+Cobra (La Ronde),Other,,Intamin,1988,,48.0
+Crazy Bats,Phantasialand,Operating,Vekoma,1988,1988-04-01,28.9
+Jetline,Gröna Lund,Operating,Anton Schwarzkopf,1988,1988-01-01,55.9
+Ninja (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Arrow Dynamics,1988,1988-05-21,55.0
+Raging Wolf Bobs,Geauga Lake,Removed,Dinn Corporation,1988,1988-05-28,50.0
+Shockwave (Six Flags Great America),Six Flags Great America,Removed,Arrow Dynamics,1988,1988-06-03,65.0
+Thunderbolt Express,Other,,Arrow Dynamics,1988,,45.0
+Wipeout (roller coaster),Pleasurewood Hills,Operating,Vekoma,1988,2007-01-01,50.0
+Wolverine Wildcat,Michigan's Adventure,Operating,Dinn Corporation,1988,1988-05-18,55.0
+Anaconda (Walygator Parc),Walygator Parc,Operating,William Cobb,1989,1989-01-01,
+Eurosat - CanCan Coaster,Europa-Park,Operating,Mack Rides,1989,1989-01-01,37.3
+Excalibur (Valleyfair),Valleyfair,Operating,Arrow Dynamics,1989,1989-01-01,54.5
+Flashback (Six Flags Over Texas),Other,,Vekoma,1989,,47.0
+Goudurix,Parc Astérix,Operating,Vekoma,1989,1989-01-01,55.9
+Great American Scream Machine (Six Flags Great Adventure),Six Flags Great Adventure,Removed,Arrow Dynamics,1989,1989-04-15,68.0
+Hercules (roller coaster),Dorney Park & Wildwater Kingdom,Removed,Dinn Corporation,1989,1989-05-06,65.0
+Magnum XL-200,Cedar Point,Operating,Arrow Dynamics,1989,1989-05-06,72.0
+Ninja (Six Flags St. Louis),Other,,Vekoma,1989,,54.7
+Olympia Looping,Oktoberfest,Operating,BHS,1989,1989-09-17,52.0
+Timber Wolf (roller coaster),Worlds of Fun,Operating,Dinn Corporation,1989,1989-04-01,53.0
+Vekoma Illusion,Bobbejaanland,Operating,Vekoma,1989,1989-06-15,31.1
+Viper (Six Flags AstroWorld),Other,,Anton Schwarzkopf,1989,,47.8
+Corkscrew (Silverwood),Other,,Arrow Development,1990,,46.0
+Dragon (Adventureland),Adventureland (Iowa),Removed,Hopkins Rides,1990,1990-05-12,55.0
+Flashback (Six Flags New England),Other,,Vekoma,1990,,47.0
+Iron Wolf (roller coaster),Other,,Bolliger & Mabillard,1990,,55.0
+Pikajuna,Linnanmäki,Operating,Mack Rides,1990,1990-01-01,23.0
+Predator (roller coaster),Six Flags Darien Lake,Operating,Dinn Corporation,1990,1990-05-25,50.0
+Texas Giant,Six Flags Over Texas,Operating,Rocky Mountain Construction,1990,2011-04-22,65.0
+Thunder Looper,Other,Discontinued,Anton Schwarzkopf,1990,,
+Thunder Run (Kentucky Kingdom),Kentucky Kingdom,Operating,Dinn Corporation,1990,1990-08-01,53.0
+Tigre de Sibérie,Le Pal,Operating,Reverchon Industries,1990,1990-01-01,24.9
+Twisted Cyclone,Six Flags Over Georgia,Operating,Rocky Mountain Construction,1990,2018-05-25,50.0
+Vampire (roller coaster),Chessington World of Adventures,Operating,Arrow Dynamics,1990,1990-04-11,45.0
+Viper (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Arrow Dynamics,1990,1990-04-07,70.0
+Adventure Express,Kings Island,Operating,Arrow Dynamics,1991,1991-04-13,35.0
+Afterburner (Fun Spot),Fun Spot Amusement Park & Zoo,Removed,Arrow Development,1991,1991-01-01,45.0
+Anaconda (roller coaster),Kings Dominion,Operating,Arrow Dynamics,1991,1991-03-23,50.0
+Pegasus (Efteling),Efteling,Removed,Dinn Corporation,1991,1991-07-01,34.2
+Psyclone (roller coaster),Six Flags Magic Mountain,Removed,Dinn Corporation,1991,1991-03-23,50.0
+Sidewinder (Hersheypark),Hersheypark,Operating,Vekoma,1991,1991-05-11,47.0
+Steel Phantom,Kennywood,Operating,D. H. Morgan Manufacturing,1991,1991-05-10,85.0
+Toboggan (Lakemont Park),Lakemont Park,Removed,Chance Rides,1991,1991-01-01,
+Turbo Mountain,Adventure World,Removed,Anton Schwarzkopf,1991,1991-01-01,35.4
+The Ultimate (roller coaster),Lightwater Valley,Closed,British Rail Engineering Limited,1991,1991-07-17,50.0
+Vortex (Canada's Wonderland),Canada's Wonderland,Operating,Arrow Dynamics,1991,1991-05-12,55.0
+Vortex (Great America),California's Great America,Operating,Bolliger & Mabillard,1991,1991-03-09,45.0
+Wildcat (Frontier City),Other,,National Amusement Devices,1991,,46.0
+Batman: The Ride,Other,,Bolliger & Mabillard,1992,,50.0
+Blue Hawk (roller coaster),Other,,Vekoma,1992,,52.0
+Cosmic Coaster (Valleyfair),Other,,Zamperla,1992,,15.0
+Desert Storm (roller coaster),Castles N' Coasters,Operating,Hopkins Rides,1992,1992-01-01,
+Drachen Fire,Busch Gardens Williamsburg,Removed,Arrow Dynamics,1992,1992-04-04,60.0
+Dragon Coaster (Dorney Park),Other,,Zamperla,1992,,15.0
+Eagle Fortress,Everland,Removed,Arrow Dynamics,1992,1992-09-08,40.0
+The Great Pumpkin Coaster,"Mason, Ohio, United States",Operating,,1992,,
+Jupiter (roller coaster),Kijima Kogen,Operating,Intamin,1992,1992-01-01,56.5
+Kingdom Coaster,Dutch Wonderland,Operating,Custom Coasters International,1992,1992-05-16,40.0
+Pepsi Orange Streak,Nickelodeon Universe,Operating,Zierer,1992,1992-08-11,40.0
+Pipeline Express,Boardwalk Fun Park,Removed,"Bailey Rides, Inc.",1992,1992-07-23,15.0
+The Rattler (roller coaster),Six Flags Fiesta Texas,Operating,Rocky Mountain Construction,1992,2013-05-25,70.0
+Runaway Mine Train (Alton Towers),Alton Towers,Operating,Mack Rides,1992,1992-03-21,22.4
+Sierra Tonante,Mirabilandia,Removed,S.D.C.,1992,1992-01-01,62.1
+Streamliner Coaster,Six Flags Fiesta Texas,Operating,Vekoma,1992,1992-03-14,
+Vortex (Carowinds),Carowinds,Operating,Bolliger & Mabillard,1992,1992-03-14,50.0
+Batman The Escape,Other,,Intamin,1993,,55.0
+Bocaraca,Other,,Vekoma,1993,,37.3
+Canyon Blaster (Adventuredome),Adventuredome,Operating,Arrow Dynamics,1993,1993-08-23,41.0
+Cosmic Coaster (Worlds of Fun),Worlds of Fun,Operating,Preston & Barbieri,1993,1993-04-03,
+Flight Deck (California's Great America),California's Great America,Operating,Bolliger & Mabillard,1993,1993-03-20,50.0
+Gadget's Go Coaster,Other,,Vekoma,1993,,21.7
+Hundeprutterutchebane,BonBon-Land,Operating,Zierer,1993,1993-01-01,18.6
+Indiana Jones et le Temple du Péril,Disneyland Park (Paris),Operating,Intamin,1993,1993-07-30,36.0
+Kumba (roller coaster),Busch Gardens Tampa Bay,Operating,Bolliger & Mabillard,1993,1993-04-20,60.0
+Lightning Bolt (roller coaster),MGM Grand Adventures Theme Park,Removed,Intamin,1993,1993-01-01,35.0
+Outlaw (roller coaster),Adventureland (Iowa),Operating,Custom Coasters International,1993,1993-04-24,48.0
+Superman: Krypton Coaster (Six Flags Mexico),Other,In Production,Vekoma,1993,,
+Thunderation,Silver Dollar City,Operating,Arrow Dynamics,1993,1993-04-10,48.0
+Top Gun (Kings Island),Kings Island,Operating,Arrow Dynamics,1993,1993-04-09,51.0
+The Comet (Great Escape),Great Escape,Operating,Philadelphia Toboggan Coasters,1994,1948-01-01,55.0
+Condor (roller coaster),Walibi Holland,Operating,Vekoma,1994,1994-05-01,49.7
+Corkscrew (Playland),Playland,Removed,Vekoma,1994,1994-01-01,40.0
+Desperado (roller coaster),Primm Valley Resorts,Closed,Arrow Dynamics,1994,1994-08-11,80.0
+Diavlo,Himeji Central Park,Operating,Bolliger & Mabillard,1994,1994-07-01,48.5
+Hakugei (roller coaster),Nagashima Spa Land,Operating,Rocky Mountain Construction,1994,2019-03-28,66.5
+Hoosier Hurricane,Indiana Beach,Operating,Custom Coasters International,1994,1994-05-27,51.0
+Hurler (roller coaster),Other,,"International Coasters, Inc.",1994,,50.0
+Nemesis (roller coaster),Alton Towers,Operating,Bolliger & Mabillard,1994,1994-03-19,50.3
+Raptor (Cedar Point),Cedar Point,Operating,Bolliger & Mabillard,1994,1994-05-07,57.0
+Roller Skater (roller coaster),Kentucky Kingdom,Operating,Vekoma,1994,1994-04-15,21.7
+Shockwave (Drayton Manor),Drayton Manor Theme Park,Operating,Intamin,1994,1994-03-26,53.0
+The Big One (roller coaster),Blackpool Pleasure Beach,Operating,Arrow Dynamics,1994,1994-05-28,74.0
+Titan (Space World),Space World,Removed,Arrow Dynamics,1994,1994-03-05,71.5
+White Canyon (roller coaster),Yomiuriland,Removed,TOGO,1994,1994-04-09,52.4
+Zach's Zoomer,Michigan's Adventure,Operating,Custom Coasters International,1994,1994-07-22,
+Arkham Asylum – Shock Therapy,Warner Bros. Movie World,SBNO December 2019,Vekoma,1995,1995-12-26,54.7
+Back at the Barnyard Hayride,Nickelodeon Universe,Operating,Zamperla,1995,1995-01-01,
+The Gold Coaster,Other,,Arrow Dynamics,1995,,52.8
+Cactus Coaster,Other,,Allan Herschell Company,1995,,
+Cannonball Express (roller coaster),Pleasurewood Hills,Operating,Anton Schwarzkopf,1995,1995-01-01,34.0
+Cannonball Run (roller coaster),Waterville USA,Removed,Custom Coasters International,1995,1995-01-01,43.0
+Comet Express,Other,,,1995,,
+Cyclops (roller coaster),Mt. Olympus Water & Theme Park,Operating,Custom Coasters International,1995,1995-01-01,58.0
+Dragon Khan,PortAventura Park,Operating,Bolliger & Mabillard,1995,1995-05-02,65.0
+Eurostar (roller coaster),Other,,Intamin,1995,,50.2
+Flight Deck (Canada's Wonderland),Canada's Wonderland,Operating,Vekoma,1995,1995-01-01,49.7
+The Great Nor'easter,Morey's Piers,Operating,Vekoma,1995,1995-05-26,55.0
+Jaguar!,Knott's Berry Farm,Operating,Zierer,1995,1995-06-17,35.0
+The Raven (roller coaster),Holiday World & Splashin' Safari,Operating,Custom Coasters International,1995,1995-05-06,50.0
+Sidewinder (Elitch Gardens),Other,,Arrow Dynamics,1995,,45.0
+Space Mountain: De la Terre à la Lune,Disneyland Park (Paris),Operating,Vekoma,1995,2017-05-07,44.0
+Space Shuttle (roller coaster),Enchanted Kingdom,Operating,Vekoma,1995,1995-07-28,47.0
+T2 (roller coaster),Kentucky Kingdom,Operating,Vekoma,1995,1995-04-08,49.7
+Twister II,Elitch Gardens,Operating,Hensel Phelps Construction,1995,1995-05-27,55.0
+Viper (Six Flags Great Adventure),Six Flags Great Adventure,Removed,TOGO,1995,1995-06-02,48.0
+Viper (Six Flags Great America),Six Flags Great America,Operating,Six Flags,1995,1995-04-29,50.0
+Viper (Six Flags Over Georgia),Other,Discontinued,Anton Schwarzkopf,1995,,
+Backyardigans: Mission to Mars,Movie Park Germany,Operating,Vekoma,1996,1996-06-30,21.7
+The Barnstormer,Magic Kingdom,Operating,Vekoma,1996,1996-10-01,25.0
+Colorado Adventure,Phantasialand,Operating,Vekoma,1996,1996-05-11,31.1
+Flight of Fear,Other,,Premier Rides,1996,,54.0
+Fujiyama (roller coaster),Fuji-Q Highland,Operating,TOGO,1996,1996-07-01,81.0
+The Great White (Morey's Piers),Morey's Piers,Operating,Custom Coasters International,1996,1996-06-10,50.0
+High Roller (Stratosphere),Stratosphere Tower,Removed,S&MC,1996,1996-04-29,30.0
+Megafobia,Oakwood Theme Park,Operating,Custom Coasters International,1996,1996-04-30,48.0
+Montu (roller coaster),Busch Gardens Tampa Bay,Operating,Bolliger & Mabillard,1996,1996-05-16,60.0
+Pegasus (Mt. Olympus Water and Theme Park),Mt. Olympus Water & Theme Park,Operating,Custom Coasters International,1996,1996-01-01,40.0
+Rougarou (roller coaster),Cedar Point,Operating,Bolliger & Mabillard,1996,2015-05-09,60.0
+Runaway Mountain,"Arlington, Texas, U.S.",Operating,,1996,,
+Santa Monica West Coaster,Pacific Park,Operating,D. H. Morgan Manufacturing,1996,1996-05-25,35.0
+Skull Mountain,Six Flags Great Adventure,Operating,Intamin,1996,1996-06-03,33.0
+The Barnstormer at Goofy's Wiseacre Farm,Magic Kingdom,Operating,Vekoma,1996,1996-10-01,25.0
+The Joker's Revenge,Other,,Vekoma,1996,,40.0
+The Mind Eraser (Geauga Lake),Other,,Vekoma,1996,,47.0
+The Walking Dead: The Ride,Thorpe Park Resort,Operating,Vekoma,1996,1996-03-23,27.7
+Timber Terror,Silverwood Theme Park,Operating,Custom Coasters International,1996,1996-01-01,55.0
+The Underground (roller coaster),Adventureland (Iowa),Operating,Custom Coasters International,1996,1996-04-27,
+Wild Thing (Valleyfair),Valleyfair,Operating,D. H. Morgan Manufacturing,1996,1996-05-11,75.0
+Wildcat (Hersheypark),Hersheypark,Operating,Great Coasters International,1996,1996-05-26,50.0
+Wilde maus,Other,,Mack Rides,1996,,28.0
+Alpengeist,Busch Gardens Williamsburg,Operating,Bolliger & Mabillard,1997,1997-03-22,67.0
+Boomerang: Coast to Coaster,Other,,Vekoma,1997,,47.0
+Chang (roller coaster),Other,,Bolliger & Mabillard,1997,,63.0
+Euro-Mir,Europa-Park,Operating,Mack Rides,1997,1997-01-01,49.7
+The Great White (SeaWorld San Antonio),SeaWorld San Antonio,Operating,Bolliger & Mabillard,1997,1997-02-01,50.0
+Green Lantern (Six Flags Great Adventure),Other,,Bolliger & Mabillard,1997,,63.0
+Invertigo (roller coaster),Other,In Production,Vekoma,1997,,50.0
+Kiddie Coaster,Lake Compounce,Operating,Molina & Sons,1997,1997-06-27,
+American Dreier Looping,Other,,Anton Schwarzkopf,1997,,53.0
+Pyrenees (roller coaster),Parque Espana-Shima Spain Village,Operating,Bolliger & Mabillard,1997,1997-01-01,62.1
+Road Runner Express (Six Flags Fiesta Texas),Six Flags Fiesta Texas,Operating,Arrow Dynamics,1997,1997-05-01,35.0
+Big Apple Coaster,New York-New York Hotel and Casino,Operating,TOGO,1997,1997-01-03,67.0
+Skytrak,Granada Studios Tour,Removed,Skytrak International,1997,1997-10-01,28.0
+Stampida,Other,Operating,Custom Coasters International,1997,1997-03-17,46.0
+Steel Force,Dorney Park & Wildwater Kingdom,Operating,D. H. Morgan Manufacturing,1997,1997-05-30,75.0
+Superman: Escape from Krypton,Other,Operating,Intamin,1997,1997-03-15,100.0
+Tonnerre de Zeus,Parc Astérix,Operating,Custom Coasters International,1997,1997-01-01,52.0
+Tower of Terror II,Dreamworld,Removed,Intamin,1997,1997-01-23,100.0
+Windjammer Surf Racers,Other,Removed,TOGO,1997,1997-03-26,40.0
+Zeus (roller coaster),Mt. Olympus Water & Theme Park,Operating,Custom Coasters International,1997,1997-06-07,60.0
+Zoomerang (Lake Compounce),Lake Compounce,Operating,Vekoma,1997,1997-06-27,47.0
+Batman & Robin: The Chiller,Other,Removed,Premier Rides,1998,1998-04-04,65.0
+Blue Tornado (roller coaster),Gardaland,Operating,Vekoma,1998,1998-01-01,49.7
+Doo Wopper,Morey's Piers,Operating,Zamperla,1998,1998-08-07,
+Excalibur (Funtown Splashtown USA),Funtown Splashtown USA,Operating,Custom Coasters International,1998,1998-01-01,55.0
+GhostRider (roller coaster),Knott's Berry Farm,Operating,Custom Coasters International,1998,1998-12-08,56.0
+Great Bear (roller coaster),Hersheypark,Operating,Bolliger & Mabillard,1998,1998-05-23,58.0
+Invertigo (California's Great America),Other,In Production,Vekoma,1998,,50.0
+Journey to Atlantis,SeaWorld Orlando,Operating,Mack Rides,1998,1998-04-17,
+Kong (roller coaster),Other,,Vekoma,1998,,49.7
+Mad Cobra (roller coaster),"Suzuka, Mie Prefecture, Japan",,,1998,,
+Mad Mouse (Pavilion),Myrtle Beach Pavilion,Removed,Arrow Dynamics,1998,1998-06-13,25.0
+Mamba (roller coaster),Worlds of Fun,Operating,D. H. Morgan Manufacturing,1998,1998-04-18,75.0
+Monte Makaya,Terra Encantada,Removed,Intamin,1998,1998-01-16,50.0
+Mr. Freeze (roller coaster),Other,,Premier Rides,1998,,70.0
+Oblivion (roller coaster),Alton Towers,Operating,Bolliger & Mabillard,1998,1998-03-14,68.4
+Rampage (roller coaster),Alabama Splash Adventure,Operating,Custom Coasters International,1998,1998-05-23,56.0
+Rattlesnake (roller coaster),Chessington World of Adventures,Operating,Maurer AG,1998,1998-01-01,28.0
+The Riddler's Revenge,Six Flags Magic Mountain,Operating,Bolliger & Mabillard,1998,1998-04-04,65.0
+Roar (roller coaster),Other,,Great Coasters International,1998,,50.5
+Roller Coaster (Dam Sen Park),Dam Sen Cultural Park,Operating,Hebei Zhongye Metallurgical Equipment,1998,1998-01-01,43.5
+Scooby's Ghoster Coaster,Kings Island,Removed,Caripro,1998,1998-04-18,8.0
+Shivering Timbers,Michigan's Adventure,Operating,Custom Coasters International,1998,1998-01-01,57.0
+Sprocket Rockets,Six Flags Great America,Operating,Vekoma,1998,1998-01-01,21.7
+Storm Chaser (roller coaster),Kentucky Kingdom,Operating,Rocky Mountain Construction,1998,2016-04-30,52.0
+Thunderhawk (Michigan's Adventure),Other,,Vekoma,1998,,49.7
+Vapor Trail (roller coaster),Sesame Place,Operating,Vekoma,1998,1998-06-01,27.0
+Vogel Rok,Efteling,Operating,Vekoma,1998,1998-04-09,40.0
+Volcano: The Blast Coaster,Kings Dominion,Removed,Intamin,1998,1998-08-03,70.0
+Wild Mouse (Lagoon),Lagoon Amusement Park,Operating,Maurer AG,1998,1998-04-10,28.0
+Wilderness Run (Carowinds),Carowinds,Operating,E&F Miler Industries,1998,1998-01-01,15.0
+Afterburn (roller coaster),Carowinds,Operating,Bolliger & Mabillard,1999,1999-03-20,62.0
+Apollo's Chariot,Busch Gardens Williamsburg,Operating,Bolliger & Mabillard,1999,1999-03-30,73.0
+Bandit (Movie Park Germany),Movie Park Germany,Operating,Roller Coaster Corporation of America,1999,1999-01-01,49.7
+Bizarro (roller coaster),Six Flags Great Adventure,Operating,Bolliger & Mabillard,1999,1999-04-02,61.0
+Canyon Blaster (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,E&F Miler Industries,1999,1999-05-30,10.0
+Dragon Challenge,Other,Removed,Bolliger & Mabillard,1999,1999-05-28,60.0
+Exterminator (roller coaster),Kennywood,Operating,Reverchon Industries,1999,1999-04-18,29.1
+Georgia Scorcher,Six Flags Over Georgia,Operating,Bolliger & Mabillard,1999,1999-05-08,54.0
+Great Chase (Six Flags America),Six Flags America,Operating,Zamperla,1999,1999-01-01,11.0
+Harley Quinn Crazy Train,Six Flags Great Adventure,Operating,Zierer,1999,1999-01-01,22.4
+The Howler,Holiday World & Splashin' Safari,Operating,Zamperla,1999,1999-05-08,16.0
+The Incredible Hulk Coaster,Universal's Islands of Adventure,Operating,Bolliger & Mabillard,1999,1999-05-28,67.0
+Invertigo (Kings Island),Other,In Production,Vekoma,1999,,50.0
+Iron Gwazi,Busch Gardens Tampa Bay,Under construction,Rocky Mountain Construction,1999,,76.0
+The Joker's Jinx,Six Flags America,Operating,Premier Rides,1999,1999-05-08,60.0
+Katapul,Other,Discontinued,Anton Schwarzkopf,1999,,
+Lil' Devil Coaster,Six Flags Great Adventure,Operating,Zamperla,1999,1999-01-01,
+Limit (roller coaster),Heide Park,Operating,Vekoma,1999,1999-01-01,49.7
+Mad Mouse (Michigan's Adventure),Michigan's Adventure,Operating,Arrow Dynamics,1999,1999-08-07,33.0
+Mad Mouse (Valleyfair),Valleyfair,Operating,Arrow Dynamics,1999,1999-05-08,30.0
+Millennium Roller Coaster,Fantasy Island,Operating,Vekoma,1999,1999-05-22,56.0
+Montaña Rusa (Parque del Café),Other,,Anton Schwarzkopf,1999,,41.2
+Montezum,Hopi Hari,Operating,Roller Coaster Corporation of America,1999,1999-01-01,64.0
+Nightmare at Crack Axle Canyon,Other,,Anton Schwarzkopf,1999,,31.0
+Poltergeist (roller coaster),Six Flags Fiesta Texas,Operating,Premier Rides,1999,1999-05-28,60.0
+Powder Keg: A Blast into the Wilderness,Other,,S&S – Sansei Technologies,1999,,64.0
+Pteranodon Flyers,"Universal Orlando Resort, Orlando, Florida, United States",,,1999,,
+"Python (Coney Island, Cincinnati, Ohio)",Coney Island,Removed,Pinfari,1999,1999-01-01,
+Raging Bull (roller coaster),Six Flags Great America,Operating,Bolliger & Mabillard,1999,1999-05-01,73.0
+Road Runner Express (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Zamperla,1999,1999-01-01,
+Rock 'n' Roller Coaster Starring Aerosmith,Other,,Vekoma,1999,,57.0
+Rollie's Coaster,Morey's Piers,Operating,Pinfari,1999,1999-01-01,27.0
+Silver Comet (roller coaster),Fantasy Island,Temporarily Closed,Custom Coasters International,1999,1999-05-01,50.0
+Steel Eel,SeaWorld San Antonio,Operating,D. H. Morgan Manufacturing,1999,1999-03-06,65.0
+Superman – Ride of Steel,Other,,Intamin,1999,,73.0
+Tennessee Tornado,Dollywood,Operating,Arrow Dynamics,1999,1999-04-17,63.0
+Thunderbolt (Celebration City),Other,,S&MC,1999,,34.0
+Tornado (Parque de Atracciones de Madrid),Parque de Atracciones de Madrid,Operating,Intamin,1999,1999-05-23,49.7
+Tremors (roller coaster),Silverwood Theme Park,Operating,Custom Coasters International,1999,1999-05-15,50.0
+Twisted Typhoon,Wild Adventures,Operating,Vekoma,1999,1999-05-08,49.7
+Twister (Knoebels Amusement Resort),Knoebels Amusement Resort,Operating,Knoebels Amusement Resort,1999,1999-07-24,51.0
+Two Face: The Flip Side,Other,In Production,Vekoma,1999,,50.0
+Wild Mouse (Hersheypark),Hersheypark,Operating,Mack Rides,1999,1999-05-08,28.0
+Woodstock Express (Cedar Point),Cedar Point,Operating,Vekoma,1999,1999-05-10,25.0
+Woodstock Express (Michigan's Adventure),Michigan's Adventure,Operating,Chance Rides,1999,1999-07-10,15.0
+Woody Woodpecker's Nuthouse Coaster,Universal Studios Florida,Operating,Vekoma,1999,1999-03-13,21.7
+Batman: The Ride (Six Flags México),Six Flags Mexico,Operating,Vekoma,2000,2000-04-14,49.7
+Boomerang (Worlds of Fun),Worlds of Fun,Operating,Vekoma,2000,2000-04-08,47.0
+The Boss (roller coaster),Six Flags St. Louis,Operating,Custom Coasters International,2000,2000-04-29,66.3
+Boulder Dash (roller coaster),Lake Compounce,Operating,Custom Coasters International,2000,2000-05-21,60.0
+Catwoman's Whip,Six Flags New England,Operating,Zierer,2000,2000-05-05,22.4
+Dania Beach Hurricane,Boomers!,Removed,"Coaster Works, Inc.",2000,2000-11-01,50.0
+Diving Machine G5,Janfusun Fancyworld,Operating,Bolliger & Mabillard,2000,2000-03-29,68.3
+Dominator (roller coaster),Other,,Bolliger & Mabillard,2000,,65.0
+Flying Dutchman Gold Mine,Other,,Mack Rides,2000,,28.0
+Flying Super Saturator,Carowinds,Removed,Setpoint USA,2000,2000-04-01,30.0
+Flying Unicorn,Other,,"Vekoma (Orlando, Japan)Mack Rides (Hollywood, Beijing)",2000,,28.5
+Ghost Chasers (roller coaster),Movie Park Germany,Operating,Mack Rides,2000,2000-01-01,28.0
+Goliath (Six Flags Magic Mountain),Six Flags Magic Mountain,Operating,Giovanola,2000,2000-02-11,85.0
+Gotham City Gauntlet: Escape from Arkham Asylum,Other,,Maurer AG,2000,,28.0
+Hurricane: Category 5,Myrtle Beach Pavilion,Removed,Custom Coasters International,2000,2000-05-06,55.0
+Jet Star (Luna Park),Other,,Anton Schwarzkopf,2000,,31.1
+Katun (roller coaster),Mirabilandia,Operating,Bolliger & Mabillard,2000,2000-04-01,65.0
+Kraken (roller coaster),SeaWorld Orlando,Operating,Bolliger & Mabillard,2000,2000-06-01,65.0
+The Legend (roller coaster),Holiday World & Splashin' Safari,Operating,Custom Coasters International,2000,2000-05-06,59.0
+Lightning Racer,Other,Operating,Great Coasters International,2000,2000-05-13,51.0
+Linnunrata,Linnanmäki,Operating,Zierer,2000,2000-05-01,24.9
+Medusa (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Bolliger & Mabillard,2000,2000-03-18,65.0
+Mega Zeph,Six Flags New Orleans,Closed,Custom Coasters International,2000,2000-05-20,57.0
+Millennium Force,Cedar Point,Operating,Intamin,2000,2000-05-13,93.0
+Muskrat Scrambler,Six Flags New Orleans,Closed,L&T Systems,2000,2000-05-20,25.0
+Possessed (roller coaster),Other,,Intamin,2000,,70.0
+Ravine Flyer III,Waldameer Park,Operating,E&F Miler Industries,2000,2000-01-01,
+RC-48,Morey's Piers,Removed,Pinfari,2000,2000-01-01,
+Road Runner Express (Six Flags Kentucky Kingdom),Other,,Maurer AG,2000,,28.0
+Road Runner Express (Six Flags New Orleans),Other,,Vekoma,2000,,21.7
+Road Runner Rollercoaster,Warner Bros. Movie World,,Vekoma,2000,,28.5
+Roller Coaster (Papéa Parc),Other,,Zierer,2000,,22.4
+Roller Coaster (Suoi Tien Park),Suoi Tien Amusement Park,Operating,Vekoma,2000,2000-01-01,43.5
+Son of Beast,Kings Island,Removed,Roller Coaster Corporation of America,2000,2000-04-28,78.4
+Speed – The Ride,Other,,Premier Rides,2000,2000-04-28,70.0
+Speed of Sound (roller coaster),Walibi Holland,Operating,Vekoma,2000,2000-04-22,47.0
+Steel Dragon 2000,Nagashima Spa Land,Operating,D. H. Morgan Manufacturing,2000,2000-08-01,95.0
+Superman The Ride,Six Flags New England,Operating,Intamin,2000,2000-05-05,77.0
+Superman: Krypton Coaster,Six Flags Fiesta Texas,Operating,Bolliger & Mabillard,2000,2000-03-11,70.0
+Svalbard Ekspressen,Kongeparken,Operating,Vekoma,2000,2000-01-01,21.7
+Untamed (Walibi Holland),Walibi Holland,Operating,Rocky Mountain Construction,2000,2019-07-01,57.2
+Villain (roller coaster),Geauga Lake,Removed,Custom Coasters International,2000,2000-05-05,59.0
+Woodstock Express (Dorney Park),Dorney Park & Wildwater Kingdom,Operating,Zamperla,2000,2000-05-05,13.0
+Xpress: Platform 13,Walibi Holland,Operating,Vekoma,2000,2000-04-01,55.9
+Zydeco Scream,Other,,Vekoma,2000,,47.0
+Batwing (roller coaster),Six Flags America,Operating,Vekoma,2001,2001-06-16,50.0
+California Screamin',Disney California Adventure,Operating,Intamin,2001,2001-02-08,55.0
+Cheetah (Wild Adventures),Wild Adventures,Removed,Custom Coasters International,2001,2001-06-16,52.0
+Colossos - Kampf der Giganten,Heide Park,Operating,Intamin,2001,2001-04-13,68.4
+Cornball Express,Indiana Beach,Operating,Custom Coasters International,2001,2001-05-18,45.0
+Déjà Vu (roller coaster),Other,In Production,Vekoma,2001,,65.6
+Do-Dodonpa,Fuji-Q Highland,Closed,S&S – Sansei Technologies,2001,2001-12-21,111.8
+Expedition GeForce,"Holiday Park, Germany",Operating,Intamin,2001,2001-06-18,74.6
+Flying Ace Aerial Chase,Kings Island,Operating,Vekoma,2001,2001-01-01,26.0
+Giant Inverted Boomerang,Other,In Production,Vekoma,2001,,65.6
+Goofy's Sky School,Disney California Adventure,Operating,Mack Rides,2001,2001-02-08,27.0
+Hypersonic XLC,Kings Dominion,Removed,S&S – Sansei Technologies,2001,2001-03-24,80.0
+Incredicoaster,Disney California Adventure,Operating,Intamin,2001,2001-02-08,55.0
+Insane Speed,Janfusun Fancyworld,Operating,Bolliger & Mabillard,2001,2001-01-01,53.4
+Lego Technic Test Track,Other,,Mack Rides,2001,,35.0
+MP Xpress,Movie Park Germany,Operating,Vekoma,2001,2001-04-06,49.7
+Mulholland Madness,Disney California Adventure,Operating,Mack Rides,2001,2001-02-08,27.0
+Nitro (Six Flags Great Adventure),Six Flags Great Adventure,Operating,Bolliger & Mabillard,2001,2001-04-07,80.0
+Phantom's Revenge,Kennywood,Operating,D. H. Morgan Manufacturing,2001,1991-05-10,85.0
+Silver Streak (Canada's Wonderland),Canada's Wonderland,Operating,Vekoma,2001,2001-05-06,26.0
+Talon (roller coaster),Dorney Park & Wildwater Kingdom,Operating,Bolliger & Mabillard,2001,2001-05-05,58.0
+The Flash: Vertical Velocity,Six Flags Discovery Kingdom,SBNO (Standing But Not Operating),Intamin,2001,2001-06-08,65.0
+Thundercoaster (TusenFryd),TusenFryd,Operating,Vekoma,2001,2001-05-01,57.8
+Titan (Six Flags Over Texas),Six Flags Over Texas,Operating,Giovanola,2001,2001-04-27,85.0
+Vertical Velocity (roller coaster),Six Flags Great America,Temporarily closed,Intamin,2001,2001-05-18,70.0
+Vonkaputous,Linnanmäki,Removed,Premier Rides,2001,2001-05-12,37.3
+Wildfire (Silver Dollar City),Silver Dollar City,Operating,Bolliger & Mabillard,2001,2001-04-04,66.0
+Wile E. Coyote's Grand Canyon Blaster,"Arlington, Texas, U.S.",Operating,,2001,,
+X-Flight (Geauga Lake),Other,,Vekoma,2001,,50.0
+Apple Zapple (Kings Dominion),Kings Dominion,Operating,Mack Rides,2002,2002-03-22,35.0
+Avalancha (roller coaster),Xetulul Theme Park,Operating,Intamin,2002,2002-01-01,54.7
+Batman: The Dark Knight (roller coaster),Six Flags New England,Operating,Bolliger & Mabillard,2002,2002-04-20,55.0
+Batman: Arkham Asylum (roller coaster),Parque Warner Madrid,Operating,Bolliger & Mabillard,2002,2002-04-06,49.7
+Colossus (Thorpe Park),Thorpe Park,Operating,Intamin,2002,2002-03-22,45.0
+Escape from Madagascar,Dreamworld,Operating,Vekoma,2002,2002-12-26,26.0
+Flying Coaster (Elitch Gardens),Other,,Zamperla,2002,,25.7
+Galactica (roller coaster),Alton Towers,Operating,Bolliger & Mabillard,2002,2002-03-16,46.6
+Goliath (Walibi Holland),Walibi Holland,Operating,Intamin,2002,2002-03-29,65.9
+Jubilee Odyssey,Fantasy Island (UK amusement park),Operating,Vekoma,2002,2002-05-23,63.0
+Lost Coaster of Superstition Mountain,Indiana Beach,Operating,Custom Coasters International,2002,2002-06-06,20.0
+New Mexico Rattler,Cliff's Amusement Park,Operating,,2002,2002-09-28,47.0
+Primeval Whirl,Disney's Animal Kingdom,Removed,Reverchon Industries,2002,2002-03-31,29.1
+Ricochet (Carowinds),Carowinds,Operating,Mack Rides,2002,2002-03-23,28.0
+Roller Soaker,Hersheypark,Removed,Setpoint USA,2002,2002-05-04,20.5
+Rugrats Runaway Reptar (Dreamworld),Dreamworld,Operating,Vekoma,2002,2002-12-26,26.0
+Scooby-Doo Spooky Coaster,Warner Bros. Movie World,Operating,Mack Rides,2002,2002-06-17,27.7
+Silver Star (roller coaster),Europa-Park,Operating,Bolliger & Mabillard,2002,2002-03-23,78.9
+Star Jet,Casino Pier,Removed,E&F Miler Industries,2002,2002-01-01,
+Superman: La Atracción de Acero,Parque Warner Madrid,Operating,Bolliger & Mabillard,2002,2002-04-06,62.1
+Superman: Ultimate Flight,Other,,Bolliger & Mabillard,2002,,51.0
+Toboggan (Conneaut Lake Park),Conneaut Lake Park,Removed,Chance Rides,2002,2002-01-01,
+Tom & Jerry (roller coaster),Parque Warner Madrid,Operating,Zierer,2002,2002-04-06,22.0
+Le Vampire,La Ronde,Operating,Bolliger & Mabillard,2002,2002-05-18,50.0
+Wicked Twister,Cedar Point,Closed,Intamin,2002,2002-05-05,72.0
+Winja's Fear & Force,Other,Operating,Maurer AG,2002,2002-03-30,37.2
+X2 (roller coaster),Six Flags Magic Mountain,Operating,Arrow Dynamics,2002,2002-01-12,76.0
+Xcelerator,Knott's Berry Farm,Operating,Intamin,2002,2002-06-22,82.0
+Atlantis Adventure,Lotte World,Operating,Intamin,2003,2003-01-01,46.6
+Balder (roller coaster),Liseberg,Operating,Intamin,2003,2003-04-12,55.9
+Canyon Blaster (Great Escape),Other,,Arrow Development,2003,,45.0
+Dragon Express,Adventure World,Operating,Zamperla,2003,2003-09-27,
+Greased Lightnin' (Six Flags Discovery Kingdom),Other,Discontinued,Anton Schwarzkopf,2003,,
+Greezed Lightnin' (Kentucky Kingdom),Other,Discontinued,Anton Schwarzkopf,2003,,
+Half Pipe (roller coaster),Other,,Intamin,2003,,43.5
+Jack Rabbit (Celebration City),"Orlando, FloridaKissimmee, FloridaFayetteville, GeorgiaUnited States",Operating,,2003,,
+The Jester (roller coaster),Other,,Vekoma,2003,,40.0
+Kiddy Hawk,Carowinds,Operating,Vekoma,2003,2003-03-22,26.0
+Nemesis Inferno,Thorpe Park,Operating,Bolliger & Mabillard,2003,2003-04-05,49.7
+Ozark Wildcat,Celebration City,Removed,Great Coasters International,2003,2003-05-01,45.0
+Scream (roller coaster),Six Flags Magic Mountain,Operating,Bolliger & Mabillard,2003,2003-04-12,63.0
+Spider (roller coaster),Lagoon,Operating,Maurer AG,2003,2003-04-01,37.3
+Steel Venom (Valleyfair),Valleyfair,Operating,Intamin,2003,2003-05-17,68.0
+Swamp Thing (Wild Adventures),Wild Adventures,Operating,Vekoma,2003,2003-01-01,26.0
+Thunder Dolphin,Tokyo Dome City Attractions,Operating,Intamin,2003,2003-05-01,80.8
+Top Thrill Dragster,Cedar Point,Closed,Intamin,2003,2003-05-04,120.0
+Twist n' Shout,Loudoun Castle,Removed,Anton Schwarzkopf,2003,2003-04-01,41.0
+Vild-Svinet,BonBon-Land,Operating,Gerstlauer,2003,2003-05-16,45.0
+Vilda Musen,Gröna Lund,Operating,Gerstlauer,2003,2003-04-18,34.2
+Booster Bike,Toverland,Operating,Vekoma,2004,2004-07-27,46.6
+Dæmonen,Tivoli Gardens,Operating,Bolliger & Mabillard,2004,2004-04-16,47.8
+Dragon's Fury (roller coaster),Chessington World of Adventures,Operating,Maurer AG,2004,2004-03-27,
+Fairly Odd Coaster,Nickelodeon Universe,Operating,Gerstlauer,2004,2004-03-15,31.0
+Hell Cat,Clementon Amusement Park,Operating,S&S – Sansei Technologies,2004,2004-09-18,56.0
+The Joker Funhouse Coaster,Six Flags Over Georgia,Operating,Chance Manufacturing,2004,2004-09-04,30.0
+Lightning (roller coaster),Kuwait Entertainment City,Removed,Bolliger & Mabillard,2004,2004-01-01,53.0
+Nighthawk (roller coaster),Other,,Vekoma,2004,,51.0
+Ragin' Cajun (roller coaster),Other,,Zamperla,2004,,29.1
+Revenge of the Mummy,Other,,Premier Rides,2004,,40.0
+Sand Serpent,Other,,Mack Rides,2004,,28.0
+Shock Wave (Brean Leisure Park),Brean Leisure Park,Operating,Pinfari,2004,2004-01-01,
+Silver Bullet (Knott's Berry Farm),Knott's Berry Farm,Operating,Bolliger & Mabillard,2004,2004-12-07,55.0
+Spinball Whizzer,Alton Towers,Operating,Maurer AG,2004,2004-03-27,37.3
+Spinning Dragons,Worlds of Fun,Operating,Gerstlauer,2004,2004-04-17,31.0
+Steel Dragon (Waldameer),Waldameer Park,Operating,Maurer AG,2004,2004-07-02,37.3
+Storm Runner,Hersheypark,Operating,Intamin,2004,2004-05-08,75.0
+Super Grover's Box Car Derby,Other,,Zierer,2004,,28.0
+Superman El Último Escape,Six Flags México,Operating,D. H. Morgan Manufacturing,2004,2004-11-19,74.6
+The Gauntlet (roller coaster),Magic Springs and Crystal Falls,Operating,Vekoma,2004,2004-04-10,49.7
+Thunderhead (roller coaster),Dollywood,Operating,Great Coasters International,2004,2004-04-03,53.7
+Time Warp (roller coaster),Canada's Wonderland,Operating,Zamperla,2004,2004-05-02,25.7
+Tulireki,Linnanmäki,Operating,Mack Rides,2004,2004-04-29,36.0
+Typhoon (Bobbejaanland),Bobbejaanland,Operating,Gerstlauer,2004,2004-04-10,49.7
+WhirlWind (Seabreeze),Seabreeze Amusement Park,Operating,Maurer AG,2004,2004-01-01,37.3
+Atlantica SuperSplash,Europa Park,,Mack Rides,2005,2005-03-19,49.7
+Bat (Lagoon),Lagoon Amusement Park,Operating,Vekoma,2005,2005-04-16,
+Cobra (PowerPark),PowerPark,Operating,Vekoma,2005,2005-01-01,47.0
+Fairly Odd Coaster (Carowinds),Carowinds,Operating,Philadelphia Toboggan Coasters,2005,1975-01-01,36.0
+Frankie's Mine Train,Other,,Zamperla,2005,,
+G Force (roller coaster),Drayton Manor Theme Park,Removed,Maurer AG,2005,2005-07-26,43.5
+Hades 360,Mt. Olympus Water & Theme Park,Operating,The Gravity Group,2005,2013-05-14,60.0
+Hydra the Revenge,Dorney Park & Wildwater Kingdom,Operating,Bolliger & Mabillard,2005,2005-05-07,53.0
+Italian Job: Stunt Track (Canada's Wonderland),Other,,Premier Rides,2005,,40.0
+Italian Job: Stunt Track (Kings Island),Other,,Premier Rides,2005,,40.0
+Kanonen,Liseberg,Removed,Intamin,2005,2005-04-23,46.6
+Kingda Ka,Six Flags Great Adventure,Operating,Intamin,2005,2005-05-21,128.0
+Pandemonium (roller coaster),Other,,Gerstlauer,2005,,31.0
+Raging Spirits,Tokyo DisneySea,Operating,Intamin,2005,2005-07-21,37.3
+Rita (roller coaster),Alton Towers,Operating,Intamin,2005,2005-04-01,61.1
+Sequoia Adventure,Gardaland,Closed,S&S - Sansei Technologies,2005,2005-04-30,
+SheiKra,Busch Gardens Tampa Bay,Operating,Bolliger & Mabillard,2005,2005-05-21,70.0
+Space Mountain: Mission 2,Disneyland Park (Paris),Operating,Vekoma,2005,2017-05-07,44.0
+Superman Escape,Warner Bros. Movie World,Operating,Intamin,2005,2005-12-26,62.1
+Wild Mouse (Beech Bend Park),Beech Bend Park,Operating,Zamperla,2005,2005-01-01,29.1
+10 Inversion Roller Coaster,Chimelong Paradise,Operating,Intamin,2006,2006-01-01,45.0
+Black Mamba (roller coaster),Phantasialand,Operating,Bolliger & Mabillard,2006,2006-05-24,49.7
+Crystal Wing,Happy Valley Beijing,Operating,Bolliger & Mabillard,2006,2006-07-09,51.0
+Eejanaika (roller coaster),Fuji-Q Highland,Operating,S&S Arrow,2006,2006-07-19,78.3
+Expedition Everest,Disney's Animal Kingdom,Operating,Vekoma,2006,2006-04-07,50.0
+Fairly Odd Coaster (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,2006,1972-01-01,35.0
+Golden Wings in Snowfield,Happy Valley Beijing,Operating,Vekoma,2006,2006-07-09,53.7
+Goliath (Six Flags Over Georgia),Six Flags Over Georgia,Operating,Bolliger & Mabillard,2006,2006-04-01,70.0
+Goliath (La Ronde),La Ronde,Operating,Bolliger & Mabillard,2006,2006-05-13,68.4
+Grand Exposition Coaster,Silver Dollar City,Operating,Zamperla,2006,2006-04-01,
+Italian Job: Turbo Coaster,Other,,Premier Rides,2006,,40.0
+Jungle Racing,Happy Valley Beijing,Operating,Vekoma,2006,2006-07-09,30.1
+Kentucky Rumbler,Beech Bend Park,Operating,Great Coasters International,2006,2006-05-06,47.0
+Kumali,Flamingo Land,Operating,Vekoma,2006,2006-01-01,54.9
+Patriot (Worlds of Fun),Worlds of Fun,Operating,Bolliger & Mabillard,2006,2006-04-08,60.0
+Speed Monster,TusenFryd,Operating,Intamin,2006,2006-04-23,55.9
+Speed: No Limits,Oakwood Theme Park,Operating,Gerstlauer,2006,2006-04-13,59.0
+Stealth (roller coaster),Thorpe Park,Operating,Intamin,2006,2006-03-15,80.0
+Tatsu,Six Flags Magic Mountain,Operating,Bolliger & Mabillard,2006,2006-05-13,62.0
+Thunderbird (PowerPark),PowerPark,Operating,Great Coasters International,2006,2006-04-29,48.0
+El Toro (Six Flags Great Adventure),Six Flags Great Adventure,Closed,Intamin,2006,2006-06-12,70.0
+The Voyage (roller coaster),Holiday World & Splashin' Safari,Operating,The Gravity Group,2006,2006-05-06,67.0
+X-Coaster,Magic Springs and Crystal Falls,Operating,Maurer AG,2006,2006-05-27,65.0
+Boardwalk Bullet,Kemah Boardwalk,Operating,Martin & Vleminckx,2007,2007-08-31,51.0
+Crush's Coaster,Walt Disney Studios Park,Operating,Maurer AG,2007,2007-06-09,37.7
+De Vliegende Hollander,Efteling,Operating,Kumbak,2007,2007-04-01,42.9
+Firehawk (roller coaster),Other,,Vekoma,2007,,50.0
+Formule X,Drievliet Family Park,Operating,Maurer AG,2007,2007-04-06,45.0
+Furius Baco,PortAventura Park,Operating,Intamin,2007,2007-06-05,83.9
+Galaxy Orbiter,Galaxyland,Operating,Gerstlauer,2007,2007-07-17,24.9
+Griffon (roller coaster),Busch Gardens Williamsburg,Operating,Bolliger & Mabillard,2007,2007-05-18,71.0
+Hollywood Dream – The Ride,Universal Studios Japan,Operating,Bolliger & Mabillard,2007,2007-03-09,55.9
+Infusion (roller coaster),Other,,Vekoma,2007,,50.0
+Jimmy Neutron's Atomic Flyer,Movie Park Germany,Operating,Vekoma,2007,2007-03-01,
+Kirnu,Linnanmäki,Operating,Intamin,2007,2007-04-27,37.0
+Kvasten,Gröna Lund,Operating,Vekoma,2007,2007-04-28,34.2
+Maverick (roller coaster),Cedar Point,Operating,Intamin,2007,2007-05-26,70.0
+Mick Doohan's Motocoaster,Dreamworld,Operating,Intamin,2007,2007-09-30,44.7
+Mystery Mine,Dollywood,Operating,Gerstlauer,2007,2007-04-13,43.5
+Phaethon (roller coaster),Gyeongju World,Operating,Bolliger & Mabillard,2007,2007-05-05,55.9
+Rage (roller coaster),Adventure Island,Operating,Gerstlauer,2007,2007-02-10,43.5
+Renegade (roller coaster),Valleyfair,Operating,Great Coasters International,2007,2007-05-12,51.3
+Sierra Sidewinder,Knott's Berry Farm,Operating,Mack Rides,2007,2007-05-26,37.0
+Star Flyer (roller coaster),"Barangay 1, Pasay, Philippines",Closed,,2007,,
+Surfrider,Wet'n'Wild Gold Coast,Operating,Intamin,2007,2007-09-01,
+Troy (roller coaster),Toverland,Operating,Great Coasters International,2007,2007-06-29,54.0
+Wicked (roller coaster),Lagoon Amusement Park,Operating,Zierer,2007,2007-06-01,55.0
+American Thunder (roller coaster),Six Flags St. Louis,Operating,Great Coasters International,2008,2008-06-20,48.0
+Backlot Stunt Coaster,Other,,Premier Rides,2008,,40.0
+Behemoth (roller coaster),Canada's Wonderland,Operating,Bolliger & Mabillard,2008,2008-05-04,77.1
+Cobra (Tivoli Friheden),Tivoli Friheden,Operating,Sartori Rides,2008,2008-06-28,43.5
+The Dark Knight Coaster,Other,,Mack Rides,2008,,30.0
+Dive Coaster (Chimelong Paradise),Chimelong Paradise,Operating,Bolliger & Mabillard,2008,2008-02-07,68.4
+Dragon's Run,Other,,Bolliger & Mabillard,2008,,65.0
+Fahrenheit (roller coaster),Hersheypark,Operating,Intamin,2008,2008-05-24,58.0
+Flight Deck (Kings Island),Kings Island,Operating,Arrow Dynamics,2008,1993-04-09,51.0
+Flight of the Hippogriff,Other,,"Vekoma (Orlando, Japan)Mack Rides (Hollywood, Beijing)",2008,,28.5
+Goliath (Six Flags Fiesta Texas),Other,,Bolliger & Mabillard,2008,,50.0
+Jet Rescue,Sea World (Australia),Operating,Intamin,2008,2008-12-26,43.5
+Kawasemi,Tobu Zoo,Operating,Intamin,2008,2008-01-01,52.8
+Mammut (roller coaster),Gardaland,Operating,Vekoma,2008,2008-03-19,31.1
+Moto Coaster (Six Flags Darien Lake),Six Flags Darien Lake,Operating,Zamperla,2008,2008-05-01,38.0
+Muntanya Russa (Tibidabo Amusement Park),Tibidabo Amusement Park,Operating,Vekoma,2008,2008-12-23,49.7
+Pony Express (roller coaster),Knott's Berry Farm,Operating,Zamperla,2008,2008-05-22,38.0
+Ravine Flyer II,Waldameer Park,Operating,The Gravity Group,2008,2008-05-17,60.0
+Roller Coaster (Dai Nam Van Hien),Đại Nam Văn Hiến,Operating,Hebei Zhongye Metallurgical Equipment,2008,2008-09-11,46.6
+Round About (roller coaster),"2904 Fantasy Way Myrtle Beach, South Carolina, U.S.",Chapter 7 bankruptcy; rides dismantled and sold; property sold,,2008,,
+Salama (roller coaster),Linnanmäki,Operating,Maurer AG,2008,2008-04-25,37.3
+Soak'd,"2904 Fantasy Way Myrtle Beach, South Carolina, U.S.",Chapter 7 bankruptcy; rides dismantled and sold; property sold,,2008,,
+SpongeBob SquarePants Rock Bottom Plunge,Nickelodeon Universe,Operating,Gerstlauer,2008,2008-03-15,43.5
+Steel Hawg,Indiana Beach,Operating,S&S – Sansei Technologies,2008,2008-07-05,41.0
+Steel Lasso,Frontier City,Operating,Chance Morgan,2008,2008-07-18,30.0
+T Express,Everland,Operating,Intamin,2008,2008-03-14,64.6
+Tsunami (roller coaster),Other,,Anton Schwarzkopf,2008,,55.0
+Apocalypse: The Ride,Six Flags Magic Mountain,Operating,Great Coasters International,2009,2009-05-23,50.1
+Blue Fire,Europa-Park,Operating,Mack Rides,2009,2009-04-04,62.0
+Diamondback (Kings Island),Kings Island,Operating,Bolliger & Mabillard,2009,2009-04-18,80.0
+Diving Coaster,Happy Valley Shanghai,Operating,Bolliger & Mabillard,2009,2009-08-16,68.4
+Escape of Novgorod,Hansa-Park,Operating,Gerstlauer,2009,2009-04-09,62.1
+Falcon (Duinrell),Duinrell,Operating,Gerstlauer,2009,2009-05-14,43.5
+Grover's Alpine Express,Busch Gardens Williamsburg,Operating,Zierer,2009,2009-04-03,26.5
+Hollywood Rip Ride Rockit,Universal Studios Florida,Operating,Maurer AG,2009,2009-08-19,65.0
+Hornet (roller coaster),Other,,Vekoma,2009,,
+Insane (Gröna Lund),Gröna Lund,Operating,Intamin,2009,2009-04-25,37.3
+ISpeed,Mirabilandia,Operating,Intamin,2009,2009-05-20,74.6
+Kozmo's Kurves,"Elysburg, Pennsylvania, United States",,,2009,,
+Manta (SeaWorld Orlando),SeaWorld Orlando,Operating,Bolliger & Mabillard,2009,2009-05-22,56.0
+Mumbo Jumbo (roller coaster),Flamingo Land Resort,Operating,S&S – Sansei Technologies,2009,2009-07-04,41.0
+Prowler (roller coaster),Worlds of Fun,Operating,Great Coasters International,2009,2009-05-02,51.2
+Saw – The Ride,Thorpe Park,Operating,Gerstlauer,2009,2009-03-14,55.0
+Teststrecke,Other,,Anton Schwarzkopf,2009,,52.0
+The Flying Cobras,Other,,Vekoma,2009,,47.0
+El Toro (Freizeitpark Plohn),Freizeitpark Plohn,Operating,Great Coasters International,2009,2009-04-10,45.6
+Tranan,Skara Sommarland,Operating,S&S – Sansei Technologies,2009,2009-05-29,24.9
+Wooden Coaster - Fireball,Happy Valley Shanghai,Operating,Martin & Vleminckx,2009,2009-08-16,56.0
+Air Grover,"Tampa, Florida, U.S.",Operating,,2010,,
+Battlestar Galactica (roller coaster),Other,Operating,Vekoma,2010,2010-03-18,51.0
+Canopy Flyer,Universal Studios Singapore,Operating,Setpoint Inc.,2010,2010-03-18,
+Ednör – L'Attaque,Other,,Vekoma,2010,,49.7
+Enchanted Airways,Universal Studios Singapore,Operating,Vekoma,2010,2010-03-18,28.5
+Fiorano GT Challenge,Other,Operating,Maurer AG,2010,2010-11-04,59.0
+Formula Rossa,Ferrari World Abu Dhabi,Operating,Intamin,2010,2010-11-04,149.1
+Huracan (Belantis),Belantis,Operating,Gerstlauer,2010,2010-06-26,52.8
+Intimidator (roller coaster),Carowinds,Operating,Bolliger & Mabillard,2010,2010-03-27,75.0
+Intimidator 305,Kings Dominion,Operating,Intamin,2010,2010-04-02,90.0
+Joris en de Draak,Other,Operating,Great Coasters International,2010,2010-07-01,46.6
+The Monster (Walygator Parc),Other,,Bolliger & Mabillard,2010,,55.9
+RC Racer,Other,,Intamin,2010,,
+Sky Rocket,Kennywood Park,Operating,Premier Rides,2010,2010-06-29,50.0
+Space Fantasy – The Ride,Universal Studios Japan,Operating,Mack Rides,2010,2010-03-18,
+Thirteen (roller coaster),Alton Towers,Operating,Intamin,2010,2010-03-20,42.0
+Viking Voyage,"Orlando, FloridaKissimmee, FloridaFayetteville, GeorgiaUnited States",Operating,,2010,,
+Woodstock Express (Carowinds),Carowinds,Operating,Philadelphia Toboggan Coasters,2010,1975-01-01,36.0
+Woodstock Express (Kings Island),Kings Island,Operating,Philadelphia Toboggan Coasters,2010,1972-01-01,35.0
+Accelerator (roller coaster),Drayton Manor,Operating,Vekoma,2011,2011-04-21,37.3
+Black Diamond (roller coaster),Knoebels Amusement Resort,Operating,Philadelphia Toboggan Coasters,2011,2011-10-08,
+Blue Flyer,Blackpool Pleasure Beach,Operating,,2011,1934-01-01,
+BomBora (Lagoon),Lagoon,Operating,Lagoon,2011,2011-04-02,31.0
+BuzzSaw (roller coaster),Dreamworld,Removed,Maurer AG,2011,2011-09-17,65.2
+Cheetah Hunt,Busch Gardens Tampa Bay,Operating,Intamin,2011,2011-05-27,60.0
+Dare Devil Dive,Six Flags Over Georgia,Operating,Gerstlauer,2011,2011-05-28,52.0
+Eurofighter (Zoosafari Fasanolandia),Zoosafari Fasanolandia,Operating,Gerstlauer,2011,2011-08-06,43.5
+Green Lantern Coaster,Warner Bros. Movie World,Operating,S&S – Sansei Technologies,2011,2011-12-23,41.0
+Hair Raiser,Ocean Park Hong Kong,Operating,Bolliger & Mabillard,2011,2011-12-08,54.7
+Krake,Heide Park,Operating,Bolliger & Mabillard,2011,2011-04-16,64.0
+New Texas Giant,Six Flags Over Texas,Operating,Rocky Mountain Construction,2011,2011-04-22,65.0
+Raptor (Gardaland),Gardaland,Operating,Bolliger & Mabillard,2011,2011-04-01,55.9
+Road Runner Express (Six Flags Magic Mountain),Other,,Vekoma,2011,,21.7
+Sky Scrapper,World Joyland,Operating,Bolliger & Mabillard,2011,2011-04-30,54.7
+Soarin' Eagle,Other,,Zamperla,2011,,25.7
+Takabisha,Fuji-Q Highland,Operating,Gerstlauer,2011,2011-07-16,62.1
+Tiger Express (roller coaster),Other,,Mack Rides,2011,,28.0
+Timber Drop,Fraispertuis City,Operating,S&S – Sansei Technologies,2011,2011-07-12,41.0
+Untamed (roller coaster),Canobie Lake Park,Operating,Gerstlauer,2011,2011-06-11,44.0
+Van Helsing's Factory,Movie Park Germany,Operating,Gerstlauer,2011,2011-06-18,22.4
+Vipère (roller coaster),Other,,Intamin,2011,2011-07-01,37.0
+Wood Coaster (Mountain Flyer),OCT East,Operating,Great Coasters International,2011,2011-07-19,61.2
+Wooden Warrior,Quassy Amusement Park,Operating,The Gravity Group,2011,2011-04-23,35.0
+Big Grizzly Mountain Runaway Mine Cars,Hong Kong Disneyland,Under Maintenance,Vekoma,2012,2012-07-14,44.7
+Cliffhanger (Colorado roller coaster),Other,,S&MC,2012,,34.0
+Dauling Dragon,Other,Operating,Martin & Vleminckx,2012,2012-04-29,
+Dinoconda,China Dinosaurs Park,Operating,S&S – Sansei Technologies,2012,2012-04-29,78.3
+Dragonfly (roller coaster),Duinrell,Operating,Gerstlauer,2012,2012-03-31,31.1
+Firebird (roller coaster),Other,,Bolliger & Mabillard,2012,,55.0
+Goliath (Six Flags New England),Other,,Vekoma,2012,,65.6
+Iron Shark,Galveston Island Historic Pleasure Pier,Operating,Gerstlauer,2012,2012-06-01,52.0
+Leviathan (Canada's Wonderland),Canada's Wonderland,Operating,Bolliger & Mabillard,2012,2012-05-06,92.0
+Manta (SeaWorld San Diego),SeaWorld San Diego,Operating,Mack Rides,2012,2012-05-26,43.0
+OzIris,Parc Astérix,Operating,Bolliger & Mabillard,2012,2012-04-07,56.0
+Polar X-plorer,Legoland Billund,Operating,Zierer,2012,2012-04-29,40.4
+Shambhala (roller coaster),PortAventura Park,Operating,Bolliger & Mabillard,2012,2012-05-12,83.3
+Skyrush,Hersheypark,Operating,Intamin,2012,2012-05-26,75.0
+Stinger (roller coaster),Other,In Production,Vekoma,2012,,50.0
+Superman: Ultimate Flight (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Premier Rides,2012,2012-06-30,62.0
+The Swarm (roller coaster),Thorpe Park,Operating,Bolliger & Mabillard,2012,2012-03-15,59.0
+Triops (roller coaster),Other,In Production,Vekoma,2012,,50.0
+Verbolten,Busch Gardens Williamsburg,Operating,Zierer,2012,2012-05-18,53.0
+Wild Eagle,Dollywood,Operating,Bolliger & Mabillard,2012,2012-03-24,61.0
+Wild West Express Coaster,Other,,Zierer,2012,,16.0
+Wodan Timbur Coaster,Europa-Park,Operating,Great Coasters International,2012,2012-03-31,62.1
+X-Flight (Six Flags Great America),Six Flags Great America,Operating,Bolliger & Mabillard,2012,2012-05-16,55.0
+Abyss (roller coaster),Adventure World,Operating,Gerstlauer,2013,2013-11-01,52.8
+Boomerang (Six Flags St. Louis),Other,,Vekoma,2013,,47.0
+Coast Rider,Knott's Berry Farm,Operating,Mack Rides,2013,2013-05-25,
+Crazy Bird,Happy Valley Tianjin,Operating,S&S – Sansei Technologies,2013,2013-12-22,
+Deep Space (roller coaster),Adlabs Imagica,Operating,Premier Rides,2013,2013-01-01,42.5
+Flying Turns (Knoebels),Knoebels Amusement Resort,Operating,Knoebels Amusement Resort,2013,2013-10-05,24.0
+Freedom Flyer,Fun Spot America,Operating,Vekoma,2013,2013-06-08,34.2
+Full Throttle (roller coaster),Six Flags Magic Mountain,Operating,Premier Rides,2013,2013-06-22,70.0
+GateKeeper (roller coaster),Cedar Point,Operating,Bolliger & Mabillard,2013,2013-05-11,67.0
+Gold Striker,California's Great America,Operating,Great Coasters International,2013,2013-05-31,53.7
+Iron Rattler,Six Flags Fiesta Texas,Operating,Rocky Mountain Construction,2013,2013-05-25,70.0
+The Joker (Six Flags México),Other,,Gerstlauer,2013,,31.0
+Karacho,Erlebnispark Tripsdrill,Operating,Gerstlauer,2013,2013-07-10,55.9
+Nitro (Imagicaa),Imagicaa,Operating,Bolliger & Mabillard,2013,2013-10-01,65.2
+Orkanen,Fårup Sommarland,Operating,Vekoma,2013,2013-06-05,46.6
+Outlaw Run,Silver Dollar City,Operating,Rocky Mountain Construction,2013,2013-03-15,68.0
+Ring Racer,Nürburgring,Closed,S&S - Sansei Technologies,2013,2013-10-31,99.4
+The Smiler,Alton Towers,Operating,Gerstlauer,2013,2013-05-31,52.8
+Smoky Mountain Alpine Coaster,Other,Operating,Wiegand,2013,2013-08-03,27.0
+Storm Coaster,Sea World (Australia),Operating,Mack Rides,2013,2013-12-06,43.5
+White Lightning (roller coaster),Fun Spot America,Operating,Great Coasters International,2013,2013-06-07,44.3
+Wild Kitty,Other,,Allan Herschell Company,2013,,
+Woodstock Express (Kings Dominion),Kings Dominion,Operating,Philadelphia Toboggan Coasters,2013,1974-01-01,35.0
+Alpina Blitz,Nigloland,Operating,Mack Rides,2014,2014-04-12,51.6
+Arthur – The Ride,Europa-Park,Operating,Mack Rides,2014,2014-06-01,19.3
+Banshee (roller coaster),Kings Island,Operating,Bolliger & Mabillard,2014,2014-04-18,68.0
+The Bat (Kings Island; opened 1993),Kings Island,Operating,Arrow Dynamics,2014,1993-04-09,51.0
+Dragon Wagon (Indiana Beach),Indiana Beach,Removed,Wisdom Rides,2014,2014-08-01,
+Family Inverted Coaster (Happy Valley Shanghai),Happy Valley Shanghai,Operating,Bolliger & Mabillard,2014,2014-07-05,30.4
+FireChaser Express,Dollywood,Operating,Gerstlauer,2014,2014-03-22,34.5
+Flug der Dämonen,Heide Park Resort,Operating,Bolliger & Mabillard,2014,2014-03-29,62.1
+Goliath (Six Flags Great America),Six Flags Great America,Operating,Rocky Mountain Construction,2014,2014-06-19,72.0
+Harry Potter and the Escape from Gringotts,Universal Studios Florida,Operating,Intamin,2014,2014-07-08,
+Helix (roller coaster),Liseberg,Operating,Mack Rides,2014,2014-04-26,62.1
+Lightning Run,Kentucky Kingdom,Operating,Chance Rides,2014,2014-05-24,55.0
+El Loco (Adventuredome),Adventuredome,Operating,S&S – Sansei Technologies,2014,2014-02-18,45.0
+Medusa Steel Coaster,Six Flags México,Operating,Rocky Mountain Construction,2014,2014-06-14,58.0
+Parrot Coaster,Chime-Long Ocean Kingdom,Operating,Bolliger & Mabillard,2014,2014-01-25,67.0
+Roar-o-Saurus,Story Land,Operating,The Gravity Group,2014,2014-05-24,33.0
+Seven Dwarfs Mine Train,Other,,Vekoma,2014,,34.0
+Thunderbird (Holiday World),Holiday World & Splashin' Safari,Operating,Bolliger & Mabillard,2014,2015-04-25,60.0
+Thunderbolt (2014 roller coaster),Luna Park,Operating,Zamperla,2014,2014-06-14,56.0
+Twist Coaster Robin,Yomiuriland,Removed,Sansei Technologies,2014,2014-03-19,38.5
+Wonder Mountain's Guardian,Canada's Wonderland,Operating,Art Engineering,2014,2014-05-24,
+Zimerman (roller coaster),Other,,Arrow Dynamics,2014,,55.0
+Acrobat (roller coaster),Nagashima Spa Land,Operating,Bolliger & Mabillard,2015,2015-07-18,55.9
+Baron 1898,Efteling,Operating,Bolliger & Mabillard,2015,2015-07-01,55.9
+Batman: The Ride (S&S Free Spin),Other,,S&S – Sansei Technologies,2015,,38.0
+Cannibal (roller coaster),Lagoon,Operating,Lagoon Corporation,2015,2015-07-02,70.0
+Fury 325,Carowinds,Operating,Bolliger & Mabillard,2015,2015-03-28,95.0
+Harpy (Xishuangbanna Theme Park),Xishuangbanna Theme Park,Closed,Bolliger & Mabillard,2015,2015-09-26,52.8
+Impulse (roller coaster),Knoebels Amusement Resort,Operating,Zierer,2015,2015-04-25,55.0
+Jumbo Jet (Chelyuskintsev Park),Other,,Anton Schwarzkopf,2015,,
+Junker (roller coaster),PowerPark,Operating,Gerstlauer,2015,2015-05-30,64.9
+Laff Trakk,Hersheypark,Operating,Maurer AG,2015,2015-05-23,40.0
+Oblivion: The Black Hole,Gardaland,Operating,Bolliger & Mabillard,2015,2015-03-28,62.2
+Octonauts Rollercoaster Adventure,Alton Towers,Operating,Zamperla,2015,2015-03-21,
+Puss in Boots' Giant Journey,Universal Studios Singapore,Operating,Zamperla,2015,2015-04-08,
+Rewind Racers,Adventure City,Operating,Gerstlauer,2015,2015-06-06,31.1
+T3 (roller coaster),Kentucky Kingdom,Operating,Vekoma,2015,1995-04-08,49.7
+Tempesto,Busch Gardens Williamsburg,Operating,Premier Rides,2015,2015-04-25,62.0
+The Cú Chulainn Coaster,Tayto Park,Operating,The Gravity Group,2015,2015-06-06,55.9
+The Oath of Kärnan,Hansa-Park,Operating,Gerstlauer,2015,2015-07-01,78.9
+Turbulence (roller coaster),Adventureland (New York),Operating,Mack Rides,2015,2015-05-22,40.0
+Twisted Colossus,Six Flags Magic Mountain,Operating,Rocky Mountain Construction,2015,2015-05-23,57.0
+Wicked Cyclone,Six Flags New England,Operating,Rocky Mountain Construction,2015,2015-05-24,55.0
+ZDT's Amusement Park,ZDT's Amusement Park,Operating,The Gravity Group,2015,2015-10-17,40.4
+Cobra's Curse,Busch Gardens Tampa Bay,Operating,Mack Rides,2016,2016-06-17,40.0
+Flying Aces (roller coaster),Ferrari World Abu Dhabi,Operating,Intamin,2016,2016-02-24,74.6
+The Flying Dinosaur,Universal Studios Japan,Operating,Bolliger & Mabillard,2016,2016-03-18,62.0
+Formuła (Energylandia),Energylandia,Operating,Vekoma,2016,2016-06-25,49.2
+The Joker (Six Flags Discovery Kingdom),Six Flags Discovery Kingdom,Operating,Rocky Mountain Construction,2016,2016-05-29,53.0
+Lightning Rod (roller coaster),Dollywood,Operating,Rocky Mountain Construction,2016,2016-06-13,73.0
+Lost Gravity (roller coaster),Walibi Holland,Operating,Mack Rides,2016,2016-03-24,54.1
+Mako (roller coaster),SeaWorld Orlando,Operating,Bolliger & Mabillard,2016,2016-06-10,73.0
+The Monster (Adventureland),Adventureland (Iowa),Operating,Gerstlauer,2016,2016-06-04,65.2
+Pulsar (roller coaster),Walibi Belgium,Operating,Mack Rides,2016,2016-06-04,62.8
+Raik,Phantasialand,Operating,Vekoma,2016,2016-06-30,38.5
+Recoil (Wonderla Hyderabad),Other,,Vekoma,2016,,47.0
+Taron (roller coaster),Phantasialand,Operating,Intamin,2016,2016-06-30,72.7
+The Joker (Six Flags Great Adventure),Other,,S&S – Sansei Technologies,2016,,38.0
+Tron Lightcycle Power Run,Other,,Vekoma,2016,2016-06-16,59.3
+Valravn (roller coaster),Cedar Point,Operating,Bolliger & Mabillard,2016,2016-05-07,75.0
+Wildfire (Kolmården Wildlife Park),Kolmården Wildlife Park,Operating,Rocky Mountain Construction,2016,2016-06-28,71.5
+Dawson Duel (roller coaster),Other,Operating,Wiegand,2017,2017-05-05,24.9
+DC Rivals HyperCoaster,Warner Bros. Movie World,Operating,Mack Rides,2017,2017-09-22,71.5
+Gold Rush (Slagharen),Attractiepark Slagharen,Operating,Gerstlauer,2017,2017-04-13,59.0
+Hydrus (roller coaster),Casino Pier,Operating,Gerstlauer,2017,2017-05-26,45.0
+InvadR,Busch Gardens Williamsburg,Operating,Great Coasters International,2017,2017-04-07,48.0
+Lech Coaster,Legendia,Operating,Vekoma,2017,2017-07-01,59.0
+Mine Blower,Fun Spot America (Kissimmee),Operating,The Gravity Group,2017,2017-06-23,48.5
+Mystic Timbers,Kings Island,Operating,Great Coasters International,2017,2017-04-15,53.0
+Patriot (California's Great America),California's Great America,Operating,Bolliger & Mabillard,2017,1991-03-09,45.0
+Pégase Express,Parc Astérix,Operating,Gerstlauer,2017,2017-06-11,32.3
+Red Force (roller coaster),Ferrari Land,Operating,Intamin,2017,2017-04-07,111.8
+Star Trek: Operation Enterprise,Movie Park Germany,Operating,Mack Rides,2017,2017-06-14,55.9
+Star Wars Hyperspace Mountain,Disneyland Park (Paris),Operating,Vekoma,2017,2017-05-07,44.0
+The Joker (Six Flags Great America),Other,,S&S – Sansei Technologies,2017,,38.0
+The Joker (Six Flags New England),Other,,S&S – Sansei Technologies,2017,,38.0
+The Joker (Six Flags Over Texas),Other,,S&S – Sansei Technologies,2017,,38.0
+Wave Breaker: The Rescue Coaster,SeaWorld San Antonio,Operating,Intamin,2017,2017-06-16,44.0
+Adrenaline Peak,Oaks Amusement Park,Operating,Gerstlauer,2018,2018-03-24,45.0
+Electric Eel (roller coaster),SeaWorld San Diego,Operating,Premier Rides,2018,2018-05-10,62.0
+Fēnix (roller coaster),Toverland,Operating,Bolliger & Mabillard,2018,2018-07-07,59.0
+HangTime (roller coaster),Knott's Berry Farm,Operating,Gerstlauer,2018,2018-05-18,57.0
+Hyperion (roller coaster),Energylandia,Operating,Intamin,2018,2018-07-14,88.2
+Icon (roller coaster),Blackpool Pleasure Beach,Operating,Mack Rides,2018,2018-05-25,52.8
+Merlin's Mayhem,Dutch Wonderland,Operating,S&S – Sansei Technologies,2018,2018-04-28,
+RailBlazer,California's Great America,Operating,Rocky Mountain Construction,2018,2018-06-14,52.0
+Slinky Dog Dash,Disney's Hollywood Studios,Operating,Mack Rides,2018,2018-06-30,40.0
+Steel Vengeance,Cedar Point,Operating,Rocky Mountain Construction,2018,2018-05-05,74.0
+Tantrum (roller coaster),Six Flags Darien Lake,Operating,Gerstlauer,2018,2018-05-25,52.8
+Tiki-Waka (roller coaster),Walibi Belgium,Operating,Gerstlauer,2018,2018-04-07,34.2
+Time Traveler (roller coaster),Silver Dollar City,Operating,Mack Rides,2018,2018-03-14,50.3
+Twisted Timbers,Kings Dominion,Operating,Rocky Mountain Construction,2018,2018-03-24,54.0
+Valkyria (roller coaster),Liseberg,Operating,Bolliger & Mabillard,2018,2018-08-10,65.2
+Wicker Man (roller coaster),Alton Towers,Operating,Great Coasters International,2018,2018-03-20,43.6
+Wonder Woman Coaster,Six Flags Mexico,Operating,S&S – Sansei Technologies,2018,2018-06-01,38.0
+Wonder Woman Golden Lasso Coaster,Six Flags Fiesta Texas,Operating,Rocky Mountain Construction,2018,2018-05-12,52.0
+Copperhead Strike,Carowinds,Operating,Mack Rides GmbH & Co KG,2019,2019-03-23,50.0
+Desmo Race,Other,Operating,Maurer AG,2019,2019-07-25,49.7
+Dragonflier,Dollywood,Operating,Vekoma,2019,2019-05-10,46.6
+Dynamite (Freizeitpark Plohn),Freizeitpark Plohn,,Mack Rides,2019,2019-05-18,62.1
+Fury (roller coaster),Bobbejaanland,Operating,Gerstlauer,2019,2019-06-24,66.2
+Hagrid's Magical Creatures Motorbike Adventure,Universal's Islands of Adventure,Operating,Intamin,2019,2019-06-13,50.0
+Hurricane (Fun Spot America),"Orlando, FloridaKissimmee, FloridaFayetteville, GeorgiaUnited States",Operating,,2019,,
+Kentucky Flyer,Kentucky Kingdom,Operating,Gravitykraft Corporation,2019,2019-04-28,35.0
+Maxx Force,Six Flags Great America,Operating,S&S - Sansei Technologies,2019,2019-07-04,78.0
+Mystic (roller coaster),Walibi Rhône-Alpes,Operating,Gerstlauer,2019,2019-05-30,52.8
+Nickelodeon Slime Streak,Nickelodeon Universe,Operating,Chance Rides,2019,2019-10-25,37.0
+Panic Coaster – Back Daaan,Tokyo Dome City Attractions,Operating,Gerstlauer,2019,2019-03-23,18.6
+Runaway Tram,Morey's Piers,Operating,Zierer,2019,2019-08-09,28.6
+Steel Curtain (roller coaster),Kennywood,Operating,S&S - Sansei Technologies,2019,2019-07-13,75.0
+Taiga (roller coaster),Linnanmäki,Operating,Intamin,2019,2019-06-18,65.9
+Tigris (roller coaster),Busch Gardens Tampa,Operating,Premier Rides,2019,2019-04-19,62.0
+TMNT Shellraiser,Nickelodeon Universe,Operating,Gerstlauer,2019,2019-10-25,62.1
+Yukon Striker,Canada's Wonderland,Operating,Bolliger & Mabillard,2019,2019-05-03,80.8
+Zadra (roller coaster),Energylandia,Operating,Rocky Mountain Construction,2019,2019-08-22,75.2
+Candymonium,Hersheypark,Operating,Bolliger & Mabillard,2020,2020-07-03,76.0
+F.L.Y. (roller coaster),Phantasialand,Operating,Vekoma,2020,,48.5
+Max & Moritz (roller coaster),Efteling,Operating,Mack Rides,2020,2020-06-20,22.4
+Objectif Mars,Futuroscope,Operating,Intamin,2020,2020-06-13,34.2
+Orion (roller coaster),Kings Island,Operating,Bolliger & Mabillard,2020,2020-07-02,91.0
+Pitts Special (roller coaster),PowerPark,Operating,Gerstlauer,2020,2020-06-24,62.1
+Sandy's Blasting Bronco,Nickelodeon Universe,Operating,Intamin,2020,2020-10-01,47.8
+Texas Stingray,SeaWorld San Antonio,Operating,Great Coasters International,2020,2020-02-22,55.0
+Wakala (roller coaster),Bellewaerde,Operating,Gerstlauer,2020,2020-07-01,31.1
+West Coast Racers,Six Flags Magic Mountain,Operating,Premier Rides,2020,2020-01-09,55.0
+Abyssus,Energylandia,Operating,Vekoma,2021,2021-07-14,62.1
+Dragon Slayer (roller coaster),Adventureland (Iowa),Operating,S&S - Sansei Technologies,2021,2021-05-29,34.0
+Jersey Devil Coaster,Six Flags Great Adventure,Operating,Rocky Mountain Construction,2021,2021-06-13,58.0
+Kondaa,Walibi Belgium,Operating,Intamin,2021,2021-05-08,70.2
+Krampus Expédition,Nigloland,Operating,Mack Rides,2021,2021-06-12,49.0
+Looping Star (Clacton Pier),Clacton Pier,Operating,Pinfari,2021,2021-10-23,
+Monster (Gröna Lund),Gröna Lund,Operating,Bolliger & Mabillard,2021,2021-06-02,55.9
+Steel Taipan,Dreamworld,Under construction,Mack Rides,2021,2021-01-01,65.2
+Storm Chaser (Paultons Park),Paultons Park,Operating,Mack Rides,2021,2021-04-12,
+Stunt Pilot (roller coaster),Silverwood Theme Park,Operating,Rocky Mountain Construction,2021,2021-05-29,52.0
+The Ride to Happiness,Plopsaland De Panne,Operating,Mack Rides,2021,2021-07-01,55.9
+VelociCoaster,Universal's Islands of Adventure,Operating,Intamin,2021,2021-06-10,70.0
+Aquaman: Power Wave,Six Flags Over Texas,Under construction,Mack Rides,2022,2022-01-01,62.1
+ArieForce One,Fun Spot America Atlanta,Under construction,Rocky Mountain Construction,2022,2022-01-01,64.0
+Defiance (roller coaster),Glenwood Caverns Adventure Park,Under construction,Gerstlauer,2022,2022-01-01,56.0
+Dr. Diabolical’s Cliffhanger,Six Flags Fiesta Texas,Under construction,Bolliger & Mabillard,2022,2022-01-01,60.0
+Emperor (roller coaster),SeaWorld San Diego,Under construction,Bolliger & Mabillard,2022,2022-03-01,63.0
+Fønix (roller coaster),Fårup Sommerland,Under construction,Vekoma,2022,,59.0
+Guardians of the Galaxy: Cosmic Rewind,Epcot,Under construction,Vekoma,2022,2022-01-01,
+Ice Breaker (roller coaster),SeaWorld Orlando,Under construction,Premier Rides,2022,2022-02-01,52.0
+Leviathan (Sea World),Sea World,Under construction,Martin & Vleminckx,2022,2022-01-01,49.7
+Pantheon (roller coaster),Busch Gardens Williamsburg,Under construction,Intamin,2022,2022-01-01,73.0
+Tumbili,Kings Dominion,Under construction,S&S – Sansei Technologies,2022,,34.0
+Wonder Woman Flight of Courage,Six Flags Magic Mountain,Under construction,Rocky Mountain Construction,2022,2022-01-01,58.0
